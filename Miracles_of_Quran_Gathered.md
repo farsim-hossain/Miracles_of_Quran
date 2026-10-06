@@ -1,6 +1,14 @@
 # Miracles of Quran - Validated Full Web Contents
 
-This file contains the complete, clean, validated text contents from all articles listed in `sites.txt`.
+Text of every source listed in `sites.txt`.
+
+| Source | Coverage |
+| --- | --- |
+| `miracles-of-quran.com` | All 219 content pages, verified line-for-line against the live site (219/219 at 100% text coverage). Covers 219/222 sitemap URLs; a full internal crawl found no pages outside the sitemap. The 12 category index pages are included with all 191 of their sub-section cards. The 3 URLs not stored — `page1.html`, `page2.html`, `search.html` — are unedited Mobirise template/demo leftovers containing no real content. |
+| `riwaya.co.uk` | Full article, all 9 sections. The 5 FAQ answers are client-side rendered and are not in the page HTML. |
+| `iqra-quran.com` | Full article, all 4 miracles + conclusion. |
+| `questionsonislam.com` | Full article, retrieved via the Internet Archive Wayback Machine (snapshot 2025-07-10) because the live site blocks automated requests. |
+| `medium.com/@farsim` | Full article. |
 
 ---
 
@@ -65,6 +73,10 @@ If anyone changed a single letter this code would have been broken.
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about abjad numerals?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 111:1-5 Condemned are the hands of Abee Lahab, and he is condemned. His wealth did not avail him, nor did what he acquired. He will burn in a Flaming Fire. And his wife—the firewood carrier. Around her neck is a rope of thorns. ١ تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ ٢ مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ ٣ سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ ٤ وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ ٥ فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ
 ---
 
 ---
@@ -92,6 +104,14 @@ You are welcomed to copy, paste or share in videos... No copyrights.
 
 ###### [Arabic](https://www.miracles-of-quran.com/arabic/), [Farsi](https://www.miracles-of-quran.com/farsi/), [French](https://www.miracles-of-quran.com/french/), [German](https://www.miracles-of-quran.com/german/), [Indonesian](https://www.miracles-of-quran.com/indonesian/), [Malay](https://www.miracles-of-quran.com/malay/), [Russian](https://www.miracles-of-quran.com/russian/), [Spanish](https://www.miracles-of-quran.com/spanish/), [Turkish](https://www.miracles-of-quran.com/turkish/), [Urdu](https://www.miracles-of-quran.com/urdu/).
 
+
+#### Source text restored from the complete local archive
+
+> Quran 42:14-15 They only disbanded after they received knowledge (of their Bible) fallaciously among them. And if it were not a word from your Lord [Allah] that postponed it to a later date, it would have been all settled among them then. And those who inherited the Book (the Bible) from them are in great suspicion of it. Therefore call them (to the Quran) and straighten your ways as you are ordered and don't follow their passions and say: "I believe in what Allah revealed of the Book (The Quran) and I was ordered to be just among you (both Christians and Jews); Allah is our Lord and your Lord, we have our actions and you have your actions, no argument between us and you, Allah brings us together and to Him we are (all) destined.
+
+> Quran 6:108 Do not curse those who call (to worship) other than Allah, so that they don't curse Allah out of spite and ignorance. This is how We [Allah] appealed to each people its own actions; then they will be brought back to their Lord [Allah] who will inform them of what they have been doing.
+
+> Arabic , Farsi , French , German , Indonesian , Malay , Russian , Spanish , Turkish , Urdu .
 ---
 
 ---
@@ -469,6 +489,10 @@ _The seven heavens and the Earth and everyone in them glorify Him [Allah]; and t
 
 (The Christian Bible erroneously claims that there are four legged insects [Leviticus 11:20](https://www.biblegateway.com/passage/?search=Leviticus+11%3A20&version=NIV). It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". [Job 41:19-21](http://www.biblegateway.com/passage/?search=Job%2041:19-21&version=NIV))
 
+
+#### Source text restored from the complete local archive
+
+> (The Christian Bible erroneously claims that there are four legged insects Leviticus 11:20 . It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". Job 41:19-21 )
 ---
 
 ---
@@ -658,6 +682,91 @@ _And the mountains He anchored._
 ---
 
 ### Article: Atmosphere In Quran.
+### Article: Astronomy In Quran
+**URL**: https://www.miracles-of-quran.com/astronomy.html
+
+####  **Astronomy**
+
+#### [**Stars**](https://www.miracles-of-quran.com/stars.html)****
+
+Looking back in time.
+
+####  [**Red Giant**](https://www.miracles-of-quran.com/red_giant.html)
+
+##### Sun will swallow Earth.
+
+####  [**Venus**](https://www.miracles-of-quran.com/venus.html)
+
+##### A planet inside our solar system.
+
+####  [**Axial Tilt**](https://www.miracles-of-quran.com/axial_tilt.html)
+
+#####  Invisible bow.
+
+####  [**Tidal Locking**](https://www.miracles-of-quran.com/tidal_locking.html)
+
+##### Same side always faces star.
+
+####  [**Full Moon**](https://www.miracles-of-quran.com/full_moon.html)
+
+##### Can only be seen at night.
+
+#### [**Meteorites**](https://www.miracles-of-quran.com/meteorites.html)
+
+##### Burn in atmosphere.
+
+#### [**Planets**](https://www.miracles-of-quran.com/planets.html)
+
+##### Can scatter.
+
+####  [**Exoplanets**](https://www.miracles-of-quran.com/exoplanets.html)
+
+##### Planets outside our solar system.
+
+#### [**Planetary Orbits**](https://www.miracles-of-quran.com/planetary_orbits.html)
+
+##### All stars and planets have orbits.
+
+#### [**Magnetosphere**](https://www.miracles-of-quran.com/magnetosphere.html)
+
+##### Shields from cosmic radiation.
+
+#### [**Moonlight**](https://www.miracles-of-quran.com/moonlight.html)
+
+##### Moon reflects sunlight.
+
+#### [**Day**](https://www.miracles-of-quran.com/day.html)
+
+##### Day getting longer.
+
+#### [**Solar Flare**](https://www.miracles-of-quran.com/solar_flare.html)
+
+##### Coronal mass ejections.
+
+#### [**Sunlight**](https://www.miracles-of-quran.com/sunlight.html)
+
+##### Delayed first sunlight.
+
+#### [**Multi-Star System**](https://www.miracles-of-quran.com/multi_star_system.html)
+
+##### Planet orbiting multiple stars.
+
+#### [**Starlight**](https://www.miracles-of-quran.com/starlight.html)
+
+##### Luminosity varies with stage.
+
+#### [**Sirius**](https://www.miracles-of-quran.com/sirius.html)
+
+##### Distance in light-years and radius.
+
+#### [**Stars Wobble**](https://www.miracles-of-quran.com/stars_wobble.html)
+
+##### Around barycenter.
+
+#### [**Kelvin**](https://www.miracles-of-quran.com/kelvin.html)
+
+##### Surface temperature of the sun.
+
 **URL**: https://www.miracles-of-quran.com/atmosphere.html
 
 #  **  
@@ -823,6 +932,10 @@ In this verse the smallest mass is a pluck and in the previous verse the smalles
 
 [No Code Website Builder](https://mobirise.com/builder/no-code-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (The Bible says that stars burn like lamps, that is, it is a chemical reaction Revelation 8:10 . However in reality there is no such thing as burning, instead atoms fuse inside stars by gravity, a nuclear reaction, not a chemical one).
 ---
 
 ---
@@ -964,6 +1077,10 @@ If a single verse was added or removed from anywhere in the entire Quran this co
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about base-19?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 26:1-4 Ta, Seen, Meem, these are verses of the clarifying book. Maybe you are frustrated that they don't believe. If We wish We can send down from heaven a sign their necks remain for it subdued. ١ طسم ٢ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ ٣ لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ ٤ إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
 ---
 
 ---
@@ -1093,11 +1210,102 @@ So in one verse God promises to make the Big Crunch by gravity and in another ve
 
 (The Bible says that the sky is "hard as a mirror of cast bronze" [Job 37:18](http://www.biblegateway.com/passage/?search=Job%2037:18&version=NIVUK). So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10120).
 
+
+#### Source text restored from the complete local archive
+
+> There are three possibilities to how the universe could end: Big Rip, Big Chill or Big Crunch. Today scientists ruled out the first two scenarios, no Big Rip and no Big Chill, instead the universe will end with a Big Crunch. Scientists studied the data from DESI , an instrument dedicated to studying the effects of Dark Energy on light, and found that the acceleration of the universe is actually decreasing (not constant as previously thought). This means in the end gravity will dominate everywhere and will cause the universe to collapse into a Big Crunch.
+
+> (The Bible says that the sky is "hard as a mirror of cast bronze" Job 37:18 . So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10 120 ).
 ---
 
 ---
 
 ### Article: Bioluminescence In Quran.
+### Article: Biology In Quran.
+**URL**: https://www.miracles-of-quran.com/biology.html
+
+####  **Biology**
+
+####  [**Bioluminescence**](https://www.miracles-of-quran.com/bioluminescence.html)
+
+Give their own light.
+
+#### [**Colors**](https://www.miracles-of-quran.com/colors.html)
+
+##### Humans cannot see colors in dim light.
+
+####  [**Honey**](https://www.miracles-of-quran.com/honey.html)
+
+##### Natural antibiotic.
+
+####  [**Fats**](https://www.miracles-of-quran.com/fats.html)
+
+##### Slowest source of energy.
+
+####  [**Hypoxia**](https://www.miracles-of-quran.com/hypoxia.html)
+
+##### Lack of oxygen.
+
+####  [**White Hair**](https://www.miracles-of-quran.com/white_hair.html)
+
+##### Linked to shock.
+
+####  [**Alzheimer's**](https://www.miracles-of-quran.com/alzheimer.html)
+
+##### Linked to old age.
+
+####  [**Fear**](https://www.miracles-of-quran.com/fear.html)
+
+##### Linked to the heart.
+
+####  [**keraunoparalysis**](https://www.miracles-of-quran.com/keraunoparalysis.html)
+
+##### Caused by lightning strike.
+
+#### [**Bacteria**](https://www.miracles-of-quran.com/bacteria.html)
+
+##### Microscopic organisms.
+
+#### [**Fasting**](https://www.miracles-of-quran.com/fasting.html)
+
+##### Has medical benefits.
+
+#### [**Breastfeeding**](https://www.miracles-of-quran.com/breastfeeding.html)
+
+##### Social bonding.
+
+#### [**Evolution**](https://www.miracles-of-quran.com/evolution.html)
+
+##### God made evolution.
+
+#### [**Nutrient Cycle**](https://www.miracles-of-quran.com/nutrient_cycle.html)
+
+##### Decomposed matter recycled.
+
+#### [**Pollination**](https://www.miracles-of-quran.com/pollination.html)
+
+##### Role of wind.
+
+#### [**Antioxidants**](https://www.miracles-of-quran.com/antioxidants.html)
+
+##### Protect our bodies.
+
+#### [**Plant Stress**](https://www.miracles-of-quran.com/plant_stress.html)
+
+##### Turns leaves yellow.
+
+#### [**Frost**](https://www.miracles-of-quran.com/frost.html)
+
+##### Kills plants.
+
+#### [**Gardens**](https://www.miracles-of-quran.com/gardens.html)
+
+##### Natural Antidepressant.
+
+#### [**Fig**](https://www.miracles-of-quran.com/fig.html)
+
+##### Domestication.
+
 **URL**: https://www.miracles-of-quran.com/bioluminescence.html
 
 #  **  
@@ -1182,6 +1390,10 @@ Bones before muscles, this turned out to be the correct order of formation.
 
 (The Christian Bible erroneously claims that there are four legged insects [Leviticus 11:20](https://www.biblegateway.com/passage/?search=Leviticus+11%3A20&version=NIV). It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". [Job 41:19-21](http://www.biblegateway.com/passage/?search=Job%2041:19-21&version=NIV))
 
+
+#### Source text restored from the complete local archive
+
+> (The Christian Bible erroneously claims that there are four legged insects Leviticus 11:20 . It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". Job 41:19-21 )
 ---
 
 ---
@@ -1617,6 +1829,71 @@ Today we know this is melting point of silver in Celsius.
 ---
 
 ### Article: Chlorophyll In Quran.
+### Article: Chemistry In Quran.
+**URL**: https://www.miracles-of-quran.com/chemistry.html
+
+####  **Chemistry**
+
+[**Hydrogen Peroxide**](https://www.miracles-of-quran.com/hydrogen_peroxide.html)
+
+Linked to white hair and weak bones.
+
+####  [**Viscosity**](https://www.miracles-of-quran.com/viscosity.html)
+
+##### Resistance to flow.
+
+#### [**Superionic Water**](https://www.miracles-of-quran.com/superionic_water.html)
+
+##### Black and viscous.
+
+####  [**Pyramids**](https://www.miracles-of-quran.com/pyramids.html)
+
+##### Upper parts are baked clay.
+
+#### [**Minerals**](https://www.miracles-of-quran.com/minerals.html)
+
+##### Have different colors.
+
+#### [**Hydrogen**](https://www.miracles-of-quran.com/hydrogen.html)
+
+##### Sun predominantly hydrogen.
+
+####  [**Halocline**](https://www.miracles-of-quran.com/halocline.html)
+
+##### Water Stratification.
+
+####  [**Iron**](https://www.miracles-of-quran.com/iron.html)
+
+##### Strongest bound nucleus.
+
+#### [**Rust**](https://www.miracles-of-quran.com/rust.html)
+
+##### Oxidized iron.
+
+#### [**Celsius**](https://www.miracles-of-quran.com/celsius.html)
+
+##### Melting point of silver.
+
+[**Pyritized Fossils**](https://www.miracles-of-quran.com/pyritized_fossils.html)
+
+##### Fossilized into rock and iron.
+
+[**Fluerescence**](https://www.miracles-of-quran.com/fluorescence.html)
+
+##### Plants emit invisible light.
+
+[**Chlorophyll**](https://www.miracles-of-quran.com/chlorophyll.html)
+
+##### Green color and photosynthesis.
+
+[**Pompeii**](https://www.miracles-of-quran.com/pompeii.html)
+
+##### Frozen in their final act.
+
+[**Nitrogen Cycle**](https://www.miracles-of-quran.com/nitrogen_cycle.html)
+
+##### Role of lightning.
+
 **URL**: https://www.miracles-of-quran.com/chlorophyll.html
 
 #  **  
@@ -1953,6 +2230,10 @@ Animals are nations just like humans are nations. Today we know that animals liv
 
 [Drag and Drop Website Builder](https://mobirise.com/drag-drop-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (The Christian Bible erroneously claims that there are four legged insects Leviticus 11:20 . It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". Job 41:19-21 )
 ---
 
 ---
@@ -2002,6 +2283,79 @@ _Permitted for you is intercourse with your wives on the night of the fast. They
 ---
 
 ### Article: Crow In Quran.
+### Article: Cosmology In Quran.
+**URL**: https://www.miracles-of-quran.com/cosmology.html
+
+####  **Cosmology**
+
+#### [**Seven Heavens**](https://www.miracles-of-quran.com/seven_heavens.html)
+
+Mass in extra dimensions.
+
+####  [**Big Bang**](https://www.miracles-of-quran.com/big_bang.html)
+
+##### Creation of the universe.
+
+####  [**Expanding Universe**](https://www.miracles-of-quran.com/expanding_universe.html)
+
+##### Expanding since the Big Bang.
+
+####  [**Big Crunch**](https://www.miracles-of-quran.com/big_crunch.html)
+
+##### Caused by gravity.
+
+#### [**Age Of Universe**](https://www.miracles-of-quran.com/age_of_universe.html)
+
+##### 3 times Age of Earth.
+
+####  [**Sound Waves**](https://www.miracles-of-quran.com/sound_waves.html)
+
+##### Earliest sound waves in the universe.
+
+####  [**Isotropy**](https://www.miracles-of-quran.com/isotropy.html)
+
+##### No preferred directions in space.
+
+####  [**Primordial Smoke**](https://www.miracles-of-quran.com/primordial_smoke.html)
+
+##### Right after the Big Bang.
+
+#### [**Galaxy Filaments**](https://www.miracles-of-quran.com/galaxy_filaments.html)
+
+##### Largest known structures in the universe.
+
+#### [**Dark Energy**](https://www.miracles-of-quran.com/dark_energy.html)
+
+##### Causes the universe to expand.
+
+#### [**Time Dilation**](https://www.miracles-of-quran.com/time_dilation.html)
+
+##### Time slows down in gravity.
+
+#### [**Spacetime**](https://www.miracles-of-quran.com/spacetime.html)
+
+##### Mass curves spacetime.
+
+#### [**Gravitational Waves**](https://www.miracles-of-quran.com/gravitational_waves.html)
+
+##### Ripples in spacetime.
+
+#### [**Equivalence Principle**](https://www.miracles-of-quran.com/equivalence_principle.html)
+
+##### Acceleration is equivalent to gravity.
+
+#### [**Gravity**](https://www.miracles-of-quran.com/gravity.html)
+
+##### Curvature of spacetime.
+
+#### [**Redshifting**](https://www.miracles-of-quran.com/redshifting.html)
+
+##### Proportional to distance.
+
+#### **[Shape Of Universe](https://www.miracles-of-quran.com/shape_of_universe.html)**
+
+##### Curvature of space.
+
 **URL**: https://www.miracles-of-quran.com/crow.html
 
 #  **  
@@ -2140,6 +2494,16 @@ This proves that impalement on stake was known and used by Egyptians before Jose
 
 [HTML Website Builder](https://mobirise.com/html-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> Quran 12:41 “O my fellow inmates! One of you will serve his master wine; while the other will be crucified, and the birds will eat from his head. Thus the matter you are inquiring about is settled.” ٤١ يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ
+
+> Quran 89:10-12 And Pharaoh of the Stakes. Who transgressed in the lands. And spread corruption. ١٠  وَفِرْعَوْنَ ذِي الْأَوْتَادِ ١١  الَّذِينَ طَغَوْا فِي الْبِلَادِ ١٢  فَأَكْثَرُوا فِيهَا الْفَسَادَ
+
+> Quran 20:71 He said, “Did you believe in him before I have given you permission? He must be your chief, who has taught you magic. I will cut off your hands and your feet on alternate sides, and I will crucify you on the trunks of the palm-trees. Then you will know which of us is more severe in punishment, and more lasting.” ٧١ قَالَ آمَنْتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ فِي جُذُوعِ النَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَا أَشَدُّ عَذَابًا وَأَبْقَىٰ
+
+> (In the Christian Bible Jesus insists that the only sign we should verify is him being in the grave for three days and three nights ( Matthew 12:38-40 ). So we are checking: He was crucified on Friday afternoon, the day before the Sabbath ( Mark 15:42 ), and then he was resurrected on Sunday morning ( Mark 16:9 ). Between Friday afternoon and Sunday morning there is 36 hours. Can anyone fit within those 36 hours three days and three nights?)
 ---
 
 ---
@@ -2464,6 +2828,10 @@ _And how can you know about Elliyyoon? A digitized book; Watched by the close on
 
 [Best AI Website Maker](https://mobirise.com/builder/ai-website-maker.html)
 
+
+#### Source text restored from the complete local archive
+
+> Quran 83:19-21 And how can you know about Elliyyoon? A digitized book; Watched by the close ones. ١٩ وَمَا أَدْرَاكَ مَا عِلِّيُّونَ ٢٠ كِتَابٌ مَرْقُومٌ ٢١ يَشْهَدُهُ الْمُقَرَّبُونَ
 ---
 
 ---
@@ -2676,6 +3044,10 @@ Mistranslations: [Quran 18.86 sun setting in a pond](https://www.miracles-of-qur
 
 [HTML Website Creator](https://mobirise.com/html-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (The Bible says that Earth is a 2 dimensional flat disk and the heaven is like a canopy: Isaiah 40:22 . And since Earth is flat then Jesus could see the entire Earth from a single high location Matthew 4:8 ) Mistranslations: Quran 18.86 sun setting in a pond .
 ---
 
 ---
@@ -2725,6 +3097,55 @@ _Are you confident that the One in heaven will not cause the earth to collapse b
 ---
 
 ### Article: Encoding In Quran.
+### Article: Embryology In Quran.
+**URL**: https://www.miracles-of-quran.com/embryology.html
+
+####  **Embryology**
+
+####  [**Meiosis**](https://www.miracles-of-quran.com/meiosis.html)
+
+Cell devision.
+
+####  [**Male Fertility**](https://www.miracles-of-quran.com/male_fertility.html)
+
+##### Linked to bones.
+
+####  [**Fetal Development**](https://www.miracles-of-quran.com/fetal_development.html)
+
+##### Face features.
+
+####  [**Human Embryo**](https://www.miracles-of-quran.com/human_embryo.html)
+
+##### Attaches to mother to feed.
+
+####  [**Miscarriage**](https://www.miracles-of-quran.com/miscarriage.html)
+
+#####  Linked to stress.
+
+####  [**Gender**](https://www.miracles-of-quran.com/gender.html)
+
+#####  Chromosomes.
+
+####  [**Bones**](https://www.miracles-of-quran.com/bones.html)
+
+##### Form before muscles.
+
+####  [**Human Senses**](https://www.miracles-of-quran.com/human_senses.html)
+
+##### Hearing develops before vision.
+
+#### [**Womb**](https://www.miracles-of-quran.com/womb.html)
+
+##### Lining changes thickness.
+
+#### [**Amniotic Fluid**](https://www.miracles-of-quran.com/amniotic_fluid.html)
+
+##### Water and darkness.
+
+#### [**Sperm**](https://www.miracles-of-quran.com/sperm.html)
+
+##### Chromosomes not unique.
+
 **URL**: https://www.miracles-of-quran.com/encoding.html
 
 #  **  
@@ -2775,6 +3196,10 @@ _And say, “Praise belongs to Allah; He will show you His signs, and you will r
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about encoding?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 27:93 And say, “Praise belongs to Allah; He will show you His signs, and you will recognize them. Your Lord is not heedless of what you do.” ٩٣ وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ آيَاتِهِ فَتَعْرِفُونَهَا ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُون
 ---
 
 ---
@@ -2919,6 +3344,12 @@ Euler discovered that the universe obeys a formula that runs on an impossibility
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about Euler's number?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 74:30-31 Over it are Nineteen. We have appointed only angels to be wardens of the Fire, and made their count to be a stumbling block for those who disbelieve; so that those given the Scripture may attain certainty; and those who believe may increase their faith; and those given the Scripture and the believers may not doubt. And those in whose hearts is sickness and the unbelievers may say, "What did Allah intend by this parable?" Thus Allah leads astray whom He wills, and guides whom He wills. None knows the soldiers of your Lord except Him. This is nothing but a reminder for humans. ٣٠ عَلَيْهَا تِسْعَةَ عَشَرَ ٣١ وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+
+> Quran 15:44 It has seven doors; for each door is an assigned class. لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ
 ---
 
 ---
@@ -3193,6 +3624,10 @@ _
 
 [Best AI Website Maker](https://mobirise.com/builder/ai-website-maker.html)
 
+
+#### Source text restored from the complete local archive
+
+> (The Bible says that the sky is "hard as a mirror of cast bronze" Job 37:18 . So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10 120 ).
 ---
 
 ---
@@ -4220,11 +4655,108 @@ The verse number 46 is the same number of total chromosomes humans have; 23 chro
 
 [Offline Website Builder](https://mobirise.com/offline-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (While today's scientists have confirmed that animals inherit their colors and stripes from their parents (through DNA), the Christian Bible says something else: In Genesis 30:37-42 , the Bible explains how baby goats get their streaked colors: If their parents were mating AND LOOKING at upright rods then the baby goats will have stripes; while if their parents were mating BUT NOT LOOKING at upright rods then the baby goats will not have stripes!)
 ---
 
 ---
 
 ### Article: Gravitational Waves In Quran.
+### Article: Geology In Quran.
+**URL**: https://www.miracles-of-quran.com/geology.html
+
+####  **Geology**
+
+#### [**Coal**](https://www.miracles-of-quran.com/coal.html)
+
+Combustible rock.
+
+####  [**Landslides**](https://www.miracles-of-quran.com/landslides.html)
+
+##### Dislocation of land.
+
+####  [**Mountains**](https://www.miracles-of-quran.com/mountains.html)
+
+##### Have roots.
+
+####  [**Earth**](https://www.miracles-of-quran.com/earth.html)
+
+##### Rotating sphere.
+
+#### [**Pumice**](https://www.miracles-of-quran.com/pumice.html)
+
+##### Least dense stone on Earth.
+
+####  [**Internal Mountains**](https://www.miracles-of-quran.com/internal_mountains.html)
+
+##### 400 miles below surface.
+
+#### [**Earthquake**](https://www.miracles-of-quran.com/earthquake.html)
+
+##### Displacement of land.
+
+####  [**Aftershocks**](https://www.miracles-of-quran.com/aftershocks.html)
+
+##### Delayed weaker quakes.
+
+####  [**Tectonics**](https://www.miracles-of-quran.com/tectonics.html)
+
+##### Mountains move.
+
+#### [**Sinkhole**](https://www.miracles-of-quran.com/sinkhole.html)
+
+##### Natural depression or hole in the ground.
+
+#### [**Volcano**](https://www.miracles-of-quran.com/volcano.html)
+
+##### Earthquakes or tremors precede eruptions.
+
+#### [**Subduction**](https://www.miracles-of-quran.com/subduction.html)
+
+##### Sinking of plates.
+
+#### [**Fault Lines**](https://www.miracles-of-quran.com/fault_lines.html)
+
+##### Cracks and faults in Earth.
+
+#### [**Soil Expansion**](https://www.miracles-of-quran.com/soil_expansion.html)
+
+##### Causes potholes.
+
+#### [**Porous Rocks**](https://www.miracles-of-quran.com/porous_rocks.html)
+
+##### Can store water.
+
+#### [**Steam Explosions**](https://www.miracles-of-quran.com/steam_explosions.html)
+
+##### Superheated water can explode.
+
+#### [**Internal Waves**](https://www.miracles-of-quran.com/internal_waves.html)
+
+##### Seas have internal waves.
+
+#### [**Photic Zone**](https://www.miracles-of-quran.com/photic_zone.html)
+
+##### Ocean section with visible light.
+
+#### [**Dead Sea**](https://www.miracles-of-quran.com/dead_sea.html)
+
+##### Lowest point on Earth.
+
+#### [**Hydrothermal Vents**](https://www.miracles-of-quran.com/hydrothermal_vents.html)
+
+##### Hot water from deep underground.
+
+[**Asthenosphere**](https://www.miracles-of-quran.com/asthenosphere.html)
+
+##### Molten layer.
+
+[**Weathering & Erosion**](https://www.miracles-of-quran.com/weathering_erosion.html)
+
+##### Smoothens rocks.
+
 **URL**: https://www.miracles-of-quran.com/gravitational_waves.html
 
 #  **  
@@ -4338,6 +4870,12 @@ So in one verse God promises to make the Big Crunch by gravity and in another ve
 
 (According to the Bible Earth's gravity is so strong that it will make stars fall on Earth: In [Mark 13:24-30](http://www.biblegateway.com/passage/?search=mark%2013:24-30&version=NIV) Jesus said that stars will fall on Earth before his second coming. Actually he said that stars will fall on Earth before even that generation passes away. However that generation passed away a long time ago and no star ever fell on Earth nor ever will.)
 
+
+#### Source text restored from the complete local archive
+
+> In the Quran gravity is linked to folding the heavens. Skeptics claim that whoever wrote the Quran made a big mistake; gravity is not related to any folding. Today scientists confirm that gravity is curvature of spacetime. There are three possibilities to how the universe could end: Big Rip, Big Crunch or Big Chill. NASA already ruled out the first scenario (No Big Rip; see also: Universe Today ). This leaves the universe with only two possible endings: Big Crunch or Big Chill. Stephen Hawking's proposal predicted that the Universe would eventually stop expanding and collapse in on itself (Big Crunch).
+
+> (According to the Bible Earth's gravity is so strong that it will make stars fall on Earth: In Mark 13:24-30 Jesus said that stars will fall on Earth before his second coming. Actually he said that stars will fall on Earth before even that generation passes away. However that generation passed away a long time ago and no star ever fell on Earth nor ever will.)
 ---
 
 ---
@@ -4420,6 +4958,87 @@ Egyptologists translated from hieroglyphs two prayers asking the gods to bless t
 ---
 
 ### Article: Honey In Quran.
+### Article: History In Quran.
+**URL**: https://www.miracles-of-quran.com/history.html
+
+####  **History**
+
+####  [**Flight**](https://www.miracles-of-quran.com/flight.html)
+
+##### Man reached the sky.
+
+#### [**Paper Money**](https://www.miracles-of-quran.com/paper_money.html)
+
+Instead of metal coins.
+
+####  [**Noah**](https://www.miracles-of-quran.com/noah.html)
+
+##### Local flood, not global.
+
+####  [**North**](https://www.miracles-of-quran.com/north.html)
+
+##### Standard for directions.
+
+####  [**Petra**](https://www.miracles-of-quran.com/petra.html)
+
+##### The lost city.
+
+####  [**Calendar**](https://www.miracles-of-quran.com/calendar.html)
+
+##### Solar vs lunar.
+
+####  [**Ubar**](https://www.miracles-of-quran.com/ubar.html)
+
+##### The flooded city.
+
+#### [**Skydiving**](https://www.miracles-of-quran.com/skydiving.html)
+
+##### Free-fall from the sky.
+
+#### [**Dried River**](https://www.miracles-of-quran.com/dried_river.html)
+
+##### Pyramids had rivers.
+
+#### [**Mourning of Pharaoh**](https://www.miracles-of-quran.com/mourning_pharaoh.html)
+
+##### Hieroglyphs.
+
+#### [**Pharaoh's Mummy**](https://www.miracles-of-quran.com/pharaoh_mummy.html)
+
+##### Drowned Pharaoh found.
+
+#### [**Haman**](https://www.miracles-of-quran.com/haman.html)
+
+##### In Egypt.
+
+#### [**Moses**](https://www.miracles-of-quran.com/moses.html)
+
+##### Name means "newborn".
+
+#### [**Karnak Temple**](https://www.miracles-of-quran.com/karnak.html)
+
+##### Pillars built by Pharaoh.
+
+#### [**Crucifixion**](https://www.miracles-of-quran.com/crucifixion.html)
+
+##### By Pharaohs.
+
+#### [**Pharaoh**](https://www.miracles-of-quran.com/pharaoh.html)
+
+##### New Kingdom.
+
+#### [**Door Locks**](https://www.miracles-of-quran.com/door_locks.html)
+
+##### Invented by Egyptians.
+
+#### [**Deities**](https://www.miracles-of-quran.com/deities.html)
+
+##### Worshiped as gods.
+
+#### [**Prostrations**](https://www.miracles-of-quran.com/prostrations.html)
+
+##### On the chins.
+
 **URL**: https://www.miracles-of-quran.com/honey.html
 
 #  **  
@@ -4527,6 +5146,10 @@ Some bees can even drill in solid rock.
 
 [Offline Website Creator](https://mobirise.com/offline-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (The Christian Bible erroneously claims that there are four legged insects Leviticus 11:20 . It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". Job 41:19-21 )
 ---
 
 ---
@@ -4642,6 +5265,10 @@ The Quran always refers to the "hearing" before the "seeing" which turned out to
 
 (The Christian Bible erroneously claims that there are four legged insects [Leviticus 11:20](https://www.biblegateway.com/passage/?search=Leviticus+11%3A20&version=NIV). It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". [Job 41:19-21](http://www.biblegateway.com/passage/?search=Job%2041:19-21&version=NIV))
 
+
+#### Source text restored from the complete local archive
+
+> (The Christian Bible erroneously claims that there are four legged insects Leviticus 11:20 . It also claims that there is an animal that has "flames stream from its mouth; sparks of fire shoot out. Smoke pours from its nostrils as from a boiling pot over burning reeds. Its breath sets coals ablaze, and flames dart from its mouth". Job 41:19-21 )
 ---
 
 ---
@@ -5011,89 +5638,85 @@ They will choke on thorns and show all symptoms of hypoxia.
 ### Article: Miracles Of Quran
 **URL**: https://www.miracles-of-quran.com/index.html
 
-#  **Miracles Of Quran**  
+#  **Miracles Of Quran**
 
-The Quran contains scientific knowledge that could not have been known 1400 years ago. It ranges from basic arithmetics to the most advanced topics in astrophysics. You are invited to go through those miracles and judge for yourself. 
+The Quran contains scientific knowledge that could not have been known 1400 years ago. It ranges from basic arithmetics to the most advanced topics in astrophysics. You are invited to go through those miracles and judge for yourself.
 
-###  **Mathematics**
+[Continue](https://www.miracles-of-quran.com/index.html#features04-11)
 
-Science of quantity, structure, space and change. 
+#### **From Arithmetics to Astrophysics**
+
+#####  **Mathematics**
+
+Science of quantity, structure, space and change.
 
 [Learn More](https://www.miracles-of-quran.com/mathematics.html)
 
 #####  **Astronomy**
 
-Science of celestial objects. 
+Science of celestial objects.
 
 [Learn More](https://www.miracles-of-quran.com/astronomy.html)
 
 #####  **History**
 
-Study of the past.  
+Study of the past.
 
 [Learn More](https://www.miracles-of-quran.com/history.html)
 
 #####  **Physics**
 
-Science of motion and behavior through space and time.  
+Science of motion and behavior through space and time.
 
 [Learn More](https://www.miracles-of-quran.com/physics.html)
 
 #####  **Geology**
 
-Study of the Earth.  
+Study of the Earth.
 
 [Learn More](https://www.miracles-of-quran.com/geology.html)
 
 #####  **Zoology**
 
-Animal science.  
+Animal science.
 
 [Learn More](https://www.miracles-of-quran.com/zoology.html)
 
 #####  **Physiology**
 
-Functions of organs.  
+Functions of organs.
 
 [Learn More](https://www.miracles-of-quran.com/physiology.html)
 
 #####  **Embryology**
 
-Science of prenatal development.  
-  
+Science of prenatal development.
 
 [Learn More](https://www.miracles-of-quran.com/embryology.html)
 
 #####  **Meteorology**
 
-Study of the atmosphere.  
+Study of the atmosphere.
 
 [Learn More](https://www.miracles-of-quran.com/meteorology.html)
 
 #####  **Biology**
 
-Science of living organisms.  
+Science of living organisms.
 
 [Learn More](https://www.miracles-of-quran.com/biology.html)
 
 #####  **Chemistry**
 
-Science of elements and compounds.  
+Science of elements and compounds.
 
 [Learn More](https://www.miracles-of-quran.com/chemistry.html)
 
 #####  **Cosmology**
 
-Science of the origin and evolution of the universe.   
+Science of the origin and evolution of the universe.
 
 [Learn More](https://www.miracles-of-quran.com/cosmology.html)
-
-[Offline Website Builder](https://mobirise.com/offline-website-builder.html)
-
----
-
----
-
 ### Article: Inner Ear In Quran.
 **URL**: https://www.miracles-of-quran.com/inner_ear.html
 
@@ -5225,6 +5848,10 @@ _Or like the depths of darkness in a vast deep ocean, overwhelmed with waves top
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about internal waves?_**
 
+
+#### Source text restored from the complete local archive
+
+> Journal of Coastal Research, Remote sensing of ocean internal waves: an overview. KLEMAS, V., 2012. 28(3), 540- 546 . West Palm Beach (Florida), ISSN 0749-0208.
 ---
 
 ---
@@ -5266,6 +5893,10 @@ Iron and most of the elements on Earth came from outer space. Iron was known and
 
 [HTML Maker](https://mobirise.com/html-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> The number of verses to Iron in the Quran is the same number of kilometers to Iron on Earth. From the beginning of the Quran there are 5100 verses to the Iron verse in chapter Iron ( see proof ). It turned out that Iron on Earth is concentrated at its core 5100 km below the surface.
 ---
 
 ---
@@ -5342,6 +5973,10 @@ _And to Allah kneels what's in the heavens and what's on Earth, of land animals 
 
 ##### **_There is a wormhole right here on Earth that connects Earth to another planet that has life._**
 
+
+#### Source text restored from the complete local archive
+
+> So according to the Quran, the heavens have land animals like our Earth (not just angels). Actually the Quran says that some of those extraterrestrial creatures will invade Earth one day: There is a wormhole right here on Earth that connects Earth with another planet. One day the creatures on that planet will use this wormhole to invade Earth: Allah gave a method of transportation to his angels throughout the universe. The Quran calls them 'Ma'arej معارج' (Quran 70.3) and describes how angels use them for long distance travel. Today Moslems know that these 'Ma'arej' is what scientists call wormholes. This is a picture of a wormhole. See how angels can reach any place in the universe before you finish reading this sentence: Wormholes in Quran . Moslems also believe that wormholes are not strictly for the use of angels. Their prophet used a wormhole once in the 'Israa & Me'raj' (Me'raj معراج is singular of Ma'arej) (Quran 17.1). In another incident the Quran describes a clan of 'Yagog and Magog' using a Me'raj (wormhole): This clan (who didn't understand human speech) were wreaking havoc on Earth. They came from BEYOND the two dams that a human called 'Thu Al-Karnein' built. He built two iron dams; one at each end of this Me'raj. Thu Al-Karnein brought iron blocks and split them equally between the two ends of this Me'raj. He melted the iron into two dams, one dam at each end. Once this Me'raj became inaccessible to that clan they could no longer wreak havoc on Earth. One day this dam will break and Yagog and Magog will wreak havoc on Earth again.
 ---
 
 ---
@@ -5477,6 +6112,10 @@ _By the sun and its radiance._
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about Kelvin?_**
 
+
+#### Source text restored from the complete local archive
+
+> (YouTube: Temperature on the surface of the Sun coded in the Quran in Kelvin .) The first and last occurrence of the sun are separated by 5778 verses. Today we know this is the surface temperature of the sun in Kelvin.
 ---
 
 ---
@@ -5667,6 +6306,10 @@ God swears by light that we see and by light that we cannot see. Today we know t
 
 (According to the Bible, God created the Rainbow 4000 years ago at the time of Noah ([Genesis 9:12-13](https://www.biblegateway.com/passage/?search=Genesis+9%3A12-13&version=NIV)). This turned-out to be false. The rainbow is a phenomena caused by the interaction of light with water droplets. The characteristics of light and how it interacts with other substances didn't change since the Big Bang, 13.7 bln years ago.)
 
+
+#### Source text restored from the complete local archive
+
+> (According to the Bible, God created the Rainbow 4000 years ago at the time of Noah ( Genesis 9:12-13 ). This turned-out to be false. The rainbow is a phenomena caused by the interaction of light with water droplets. The characteristics of light and how it interacts with other substances didn't change since the Big Bang, 13.7 bln years ago.)
 ---
 
 ---
@@ -5705,6 +6348,10 @@ The word "Star" and word "Earth" are separated by 861 letters. Today we know tha
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about light-years?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 53:49 And that it is He who is the Lord of Sirius. ٤٩ وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ
 ---
 
 ---
@@ -5931,6 +6578,63 @@ In this verse the smallest mass is a pluck and in the previous verse the smalles
 ---
 
 ### Article: Meiosis In Quran.
+### Article: Mathematics In Quran.
+**URL**: https://www.miracles-of-quran.com/mathematics.html
+
+####  **Mathematics**
+
+####  [**Meters**](https://www.miracles-of-quran.com/meters.html)
+
+##### Base unit for distance.
+
+####  [**Kilometers**](https://www.miracles-of-quran.com/kilometers.html)
+
+##### 1000 meters.
+
+####  [**Miles**](https://www.miracles-of-quran.com/miles.html)
+
+#####  Used for navigation.
+
+####  [**Light-Years**](https://www.miracles-of-quran.com/light_years.html)
+
+#####  Interstellar distances.
+
+#### [**Hypersonic**](https://www.miracles-of-quran.com/hypersonic.html)
+
+##### Faster than supersonic.
+
+####  [**Prime Numbers**](https://www.miracles-of-quran.com/prime_numbers.html)
+
+#####  Indivisible.
+
+#### [**Pulsar Navigation**](https://www.miracles-of-quran.com/pulsar_navigation.html)
+
+#####  Replaces GPS.
+
+####  [**Base-19**](https://www.miracles-of-quran.com/base-19.html)
+
+#####  Numeral system.
+
+####  [**Digital Books**](https://www.miracles-of-quran.com/digital_books.html)
+
+Replace paper books.
+
+#### [**Pi**](https://www.miracles-of-quran.com/pi.html)
+
+##### Pi = 3.14
+
+#### [**Encoding**](https://www.miracles-of-quran.com/encoding.html)
+
+##### Character encoding.
+
+#### [**Abjad Numerals**](https://www.miracles-of-quran.com/abjad_numerals.html)
+
+##### Alphanumeric code.
+
+#### [**Euler**](https://www.miracles-of-quran.com/euler.html)
+
+##### Euler's number.
+
 **URL**: https://www.miracles-of-quran.com/meiosis.html
 
 #  **  
@@ -6012,6 +6716,82 @@ They would think that they are clouds because their ash looks like clouds.
 ---
 
 ### Article: Meters In Quran.
+### Article: Meteorology In Quran.
+**URL**: https://www.miracles-of-quran.com/meteorology.html
+
+####  **Meteorology**
+
+#### [**Water Cycle**](https://www.miracles-of-quran.com/water_cycle.html)
+
+Role of sun.
+
+#### [**Atmosphere**](https://www.miracles-of-quran.com/atmosphere.html)
+
+Shields from meteorites.
+
+####  [**Water**](https://www.miracles-of-quran.com/water.html)
+
+##### Came from comets in outer space.
+
+##### **[**Desertification**](https://www.miracles-of-quran.com/desertification.html)
+** Rivers turn into deserts.
+
+####  [**Sea Breeze**](https://www.miracles-of-quran.com/sea_breeze.html)
+
+##### Reversal in wind direction.
+
+#### [**Orographic Effect**](https://www.miracles-of-quran.com/orographic_effect.html)
+
+##### Mountains trigger rain.
+
+####  [**Freshwater**](https://www.miracles-of-quran.com/freshwater.html)
+
+##### On mountains.
+
+#### [**Frost Weathering**](https://www.miracles-of-quran.com/frost_weathering.html)
+
+##### Water cracks rocks.
+
+####  [**Wind**](https://www.miracles-of-quran.com/wind.html)
+
+##### Can snap trees.
+
+#### [**Acid Rain**](https://www.miracles-of-quran.com/acid_rain.html)
+
+##### Caused mass extinction.
+
+#### [**Microburst**](https://www.miracles-of-quran.com/microburst.html)
+
+##### Threat to aviation.
+
+#### [**Cloud Seeding**](https://www.miracles-of-quran.com/cloud_seeding.html)
+
+##### Triggers rain.
+
+#### [**Dew**](https://www.miracles-of-quran.com/dew.html)
+
+##### Reaches driest regions.
+
+#### [**Shorelines**](https://www.miracles-of-quran.com/shorelines.html)
+
+##### Recede due to global warming.
+
+#### [**Fire Whirl**](https://www.miracles-of-quran.com/fire_whirl.html)
+
+##### Tornado with fire.
+
+#### [**Atmospheric Pressure**](https://www.miracles-of-quran.com/atmospheric_pressure.html)
+
+##### Decreases with altitude.
+
+#### [**Flash Flood**](https://www.miracles-of-quran.com/flash_flood.html)
+
+##### Sudden surge in water.
+
+#### [**Weight Of Clouds**](https://www.miracles-of-quran.com/clouds_weight.html)
+
+##### Average is million pounds.
+
 **URL**: https://www.miracles-of-quran.com/meters.html
 
 #  **  
@@ -6043,6 +6823,10 @@ It turned-out that 70 cubits is equivalent to 32 meters, same number of the vers
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about meters?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 69:32 Then in a chain which length is seventy cubits tie him up. ٣٢ ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
 ---
 
 ---
@@ -6153,6 +6937,14 @@ The distance between the two mosques is 767 miles.
 
 [Drag and Drop Website Builder](https://mobirise.com/drag-drop-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> Quran 9:28 O you who believe! The polytheists are polluted, so let them not approach the Sacred Mosque after this year of theirs. And if you fear poverty, Allah will enrich you from His grace, if He wills. Allah is Aware and Wise. ٢٨ يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا الْمَسْجِدَ الْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ اللَّهُ مِنْ فَضْلِهِ إِنْ شَاءَ ۚ إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ
+
+> Quran 17:1 Glory to Him who journeyed His servant by night, from the Sacred Mosque, to the Al-Aqsa Mosque, whose precincts We have blessed, in order to show him of Our wonders. He is the Listener, the Beholder. ١ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ
+
+> Kaaba 21.4225° N, 39.8262° E Aqsa 31.7761° N, 35.2358° E Using Coordinate Distance Calculator to get the distance between the two locations.
 ---
 
 ---
@@ -7245,6 +8037,152 @@ The Quran says that it is so dark down there you cannot see your own hand.
 ---
 
 ### Article: Pi In Quran.
+### Article: Physics In Quran.
+**URL**: https://www.miracles-of-quran.com/physics.html
+
+####  **Physics**
+
+#### [**Speed Of Light**](https://www.miracles-of-quran.com/speed_of_light.html)
+
+12000 Lunar Orbits/Earth Day.
+
+####  [**Solar Energy**](https://www.miracles-of-quran.com/solar_energy.html)
+
+##### Conservation Of Energy.
+
+####  [**Work**](https://www.miracles-of-quran.com/work.html)
+
+##### Force times displacement.
+
+####  [**Light**](https://www.miracles-of-quran.com/light.html)
+
+##### Invisible spectrum.
+
+####  [**Atoms**](https://www.miracles-of-quran.com/atoms.html)
+
+##### Smallest particle is a string.
+
+####  [**Pairs**](https://www.miracles-of-quran.com/pairs.html)
+
+##### All matter in pairs.
+
+####  [**Cold Plasma**](https://www.miracles-of-quran.com/cold_plasma.html)
+
+##### Fire that doesn't burn.
+
+#### [**Rayleigh Scattering**](https://www.miracles-of-quran.com/rayleigh_scattering.html)
+
+##### Makes sky appear blue.
+
+#### [**Terminal Velocity**](https://www.miracles-of-quran.com/terminal_velocity.html)
+
+##### Highest speed in free-fall.
+
+#### [**Pulsars**](https://www.miracles-of-quran.com/pulsars.html)
+
+##### And Blackholes.
+
+#### [**Armor-Piercing**](https://www.miracles-of-quran.com/armor_piercing.html)
+
+##### Use of copper.
+
+#### [**Sonic Weapons**](https://www.miracles-of-quran.com/sonic_weapons.html)
+
+##### Incapacitate or kill.
+
+#### [**Mass**](https://www.miracles-of-quran.com/mass.html)
+
+##### Vibrations of strings.
+
+#### [**Singularity**](https://www.miracles-of-quran.com/singularity.html)
+
+##### Carries God's name in Arabic.
+
+#### [**Wormholes**](https://www.miracles-of-quran.com/wormholes.html)
+
+##### For transportation.
+
+#### [**String Theory**](https://www.miracles-of-quran.com/string_theory.html)
+
+##### Mass in extra dimensions.
+
+### Article: Physiology In Quran.
+**URL**: https://www.miracles-of-quran.com/physiology.html
+
+####  **Physiology**
+
+#### [**Neurons**](https://www.miracles-of-quran.com/neurons.html)
+
+Memory outside brain.
+
+####  [**AMD**](https://www.miracles-of-quran.com/amd.html)
+
+##### Blurred vision in elderly linked to iron.
+
+####  [**Brain Cells**](https://www.miracles-of-quran.com/brain_cells.html)
+
+##### Found in the heart.
+
+####  [**Reading**](https://www.miracles-of-quran.com/reading.html)
+
+##### Newborn brains prewired to read.
+
+#### [**Flash Blindness**](https://www.miracles-of-quran.com/flash_blindness.html)
+
+##### Linked to lightning strike.
+
+####  [**Brainstem**](https://www.miracles-of-quran.com/brainstem.html)
+
+##### Linked to sleep and death.
+
+####  [**Cholesterol**](https://www.miracles-of-quran.com/cholesterol.html)
+
+##### Clogs arteries.
+
+####  [**Bedsores**](https://www.miracles-of-quran.com/bedsores.html)
+
+##### Caused by extended pressure.
+
+#### [**Inner Ear**](https://www.miracles-of-quran.com/inner_ear.html)
+
+##### Responsible for balance.
+
+#### [**Cataracts**](https://www.miracles-of-quran.com/cataracts.html)
+
+##### Linked to depression.
+
+#### [**Vision**](https://www.miracles-of-quran.com/vision.html)
+
+##### Astronauts experience blurred vision.
+
+#### [**Milk**](https://www.miracles-of-quran.com/milk.html)
+
+##### Nutrients come from blood stream.
+
+#### [**Brain Functions**](https://www.miracles-of-quran.com/brain_functions.html)
+
+##### Frontal part handles lies.
+
+#### [**Pupil**](https://www.miracles-of-quran.com/pupil.html)
+
+##### Dilates when lying.
+
+#### [**Fingerprints**](https://www.miracles-of-quran.com/fingerprints.html)
+
+##### Unique to each individual.
+
+#### [**Eardrum**](https://www.miracles-of-quran.com/eardrum.html)
+
+##### Rupture causes hearing loss.
+
+#### [**Skin Nerves**](https://www.miracles-of-quran.com/skin_nerves.html)
+
+##### Burning sensation from outer skin.
+
+#### [**Vagus Nerve**](https://www.miracles-of-quran.com/vagus_nerve.html)
+
+##### Close to jugular vein.
+
 **URL**: https://www.miracles-of-quran.com/pi.html
 
 #  **  
@@ -7706,6 +8644,12 @@ Yes 326159 is a prime number. This says that the Quran is indivisible; if a sing
 
 [Best AI Website Creator](https://mobirise.com/builder/ai-website-creator.html)
 
+
+#### Source text restored from the complete local archive
+
+> Quran 15:87 We have given you seven of the pairs, and the Grand Quran. ٨٧ وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ
+
+> Quran 39:23 Allah has sent down the best of narrations: A Scripture consistent and paired. The skins of those who reverence their Lord shiver from it, then their skins and their hearts soften up to the remembrance of Allah. Such is Allah's guidance; He guides with it whomever He wills. But whomever Allah leaves astray, for him there is no guide. ٢٣ اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ اللَّهِ ۚ ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ
 ---
 
 ---
@@ -7752,6 +8696,10 @@ _Then He directed himself to the Heaven when it was SMOKE, and then said to it a
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about primordial smoke?_**
 
+
+#### Source text restored from the complete local archive
+
+> !400 years ago nobody knew about primordial smoke however it was portrayed in the Quran. The Christian Bible says that in the beginning God said "Let there be light" ( Genesis 1:3 ). However this turned out to be false. After the Big Bang the universe was opaque and photons couldn't travel at all. The first 380,000 years the universe was opaque to visible light (non-transparent) and photons couldn't travel at all. Few minutes after the Big Bang the universe was primarily Hydrogen and Helium. But when a gas is too hot it becomes ionized (loses the electrons) and becomes opaque (like today's smoke). In the beginning the universe was opaque to visible light. It took 380,000 years for the universe to cool enough, and only then it became transparent to visible light. For other wavelengths it was opaque for a billion years.
 ---
 
 ---
@@ -7835,6 +8783,10 @@ _And landmarks. And by the stars they guide themselves._
 
 [HTML Website Maker](https://mobirise.com/html-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> Quran 16:16 And landmarks. And by the stars they guide themselves. ١٦ وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ
 ---
 
 ---
@@ -7874,6 +8826,12 @@ Pulsars are rotating neutron stars. As more matter falls into a neutron star its
 
 [Drag and Drop Website Builder](https://mobirise.com/drag-drop-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> 1400 years ago nobody knew about pulsars or blackholes however they were portrayed in the Quran. Pulsars are rotating neutron stars. Most neutron stars discovered today are in the form of radio pulsars. They are called radio pulsars because they emit radio waves. We can simply connect a radio telescope to a loud speaker and hear a pulsar. Pulsars sound like someone persistently knocking. Click here and listen to a slow knocking pulsar . Click here and listen to a fast knocking pulsar . So in short, we can hear a pulsar knock.
+
+> (Our sun is a very small star. Actually our solar system (including the atoms that you are made of) came from a dying star 100 times more massive than our sun. Some stars are even bigger than our solar system, so you can imagine how large stars are. However according to the Bible these stars are so small that they could fall on Earth: In Mark 13:24-30 Jesus said that stars will fall on Earth before his second coming. Actually he said that stars will fall on Earth before even that generation passes away. However that generation passed away a long time ago and no star ever fell on Earth nor ever will. Do you know why? Because Earth will vaporize before it even contacts a star. So the events prophesied in the Bible are supposed to occur on Earth when Earth is already vaporized!)
 ---
 
 ---
@@ -7921,6 +8879,10 @@ Pumice "Sijjeel in Arabic سِجِّيلٍ" is also found in [Quran 15:74](https
 
 [Drag and Drop Website Builder](https://mobirise.com/drag-drop-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> Pumice "Sijjeel in Arabic سِجِّيلٍ" is also found in Quran 15:74 where the city was showered by a volcano. Today we know that pumice is very porous and has very low density which means it is very easy for the birds to carry.
 ---
 
 ---
@@ -8363,6 +9325,10 @@ Similarly the more distant galaxies are the more reddish their colors appear to 
 
 (The Bible says that the sky is "hard as a mirror of cast bronze" [Job 37:18](http://www.biblegateway.com/passage/?search=Job%2037:18&version=NIVUK). So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10120).
 
+
+#### Source text restored from the complete local archive
+
+> (The Bible says that the sky is "hard as a mirror of cast bronze" Job 37:18 . So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10 120 ).
 ---
 
 ---
@@ -8591,6 +9557,12 @@ Today we are sure that we are not living in a "Universe" but rather in a "Multiv
 
 (No physicist today believes that we are living in the three-dimensional universe of the Christian Bible where not even time is a dimension!)
 
+
+#### Source text restored from the complete local archive
+
+> Astronomers have just confirmed the existence of Dark Matter. This mysterious Dark Matter is invisible however it provides the bulk of gravity that holds galaxies (not the regular matter that forms stars and planets). This invisible Dark Matter has weird collision properties (collisionless). Simply put: we cannot see Dark Matter nor collide with it but we can detect its gravity. In this image, two huge clusters of invisible Dark Matter (in blue) clashed with each other. With each cluster having a mass of 10,000 galaxies (each cluster a quadrillion times the mass of the Sun, 10 15 !!!) (See: Universe Today ). However upon impact, instead of disintegrating into smaller pieces, they passed through each other unscathed! This means that they did not collide with each other either! They simply passed through each other!!!
+
+> Futtur in Arabic فُطور is a noun meaning creation out of nothing (it does not mean "rip"). Its verb in past tense is Fattara فَطَرَ and is found in Quran 6:79 meaning "created" (The verb that does mean "ripped" or "destroyed" is its opposite: Tafattara تَفَطّرَ as in Quran 19:90 . Its noun is Tafattur تفطُّر). So the question in the Quran is "Do you see any creation out of nothing?". Your initial answer should be NO. But in the second verse, when you are supposed to redirect your sight your answer will change to YES, with defeat. Why should you redirect your sight when you observe Dark Matter? Why should you look to another direction and then back? Well the gravity of a massive object makes you see the background stars in another direction:
 ---
 
 ---
@@ -8700,6 +9672,10 @@ _
 
 [ Website Building Software](https://mobirise.com)
 
+
+#### Source text restored from the complete local archive
+
+> (The Bible says that the sky is "hard as a mirror of cast bronze" Job 37:18 . So the Bible insists on a static universe. Actually Albert Einstein's famous blunder, the cosmological constant, was to explain the static universe. Although at that time no scientific evidence existed to support that claim, Einstein gave the Bible the benefit of the doubt and went for a static universe, non-expanding non-contracting. Later, when Edwin Hubble discovered the expansion of the universe, Einstein retracted this cosmological constant and called it the biggest blunder of his career. By trusting the Bible Einstein got it wrong by the order of 10 120 ).
 ---
 
 ---
@@ -8999,6 +9975,10 @@ _And of His signs is that you see the land still. But when We send down water up
 
 [No Code Website Builder](https://mobirise.com/builder/no-code-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> "Rabua in Arabic رَبْوَة " means high ground. Its verb "Yarbu يَربُو " means rise higher. In this verse "Rabat رَبَتْ" means rose higher (it is also found in Quran 13:17 meaning float or rise to the top of water). In this verse water causes the soil to shake and rise upward.
 ---
 
 ---
@@ -9285,6 +10265,10 @@ _We created man from a mixed sperm, to test him; and We made him hearing and see
 
 (While today's scientists have confirmed that animals inherit their colors and stripes from their parents (through DNA), the Christian Bible says something else: In [Genesis 30:37-42](http://www.biblegateway.com/passage/?search=Genesis%2030:37-42&version=NIV), the Bible explains how baby goats get their streaked colors: If their parents were mating **AND LOOKING** at upright rods then the baby goats will have stripes; while if their parents were mating **BUT NOT LOOKING** at upright rods then the baby goats will not have stripes!)
 
+
+#### Source text restored from the complete local archive
+
+> (While today's scientists have confirmed that animals inherit their colors and stripes from their parents (through DNA), the Christian Bible says something else: In Genesis 30:37-42 , the Bible explains how baby goats get their streaked colors: If their parents were mating AND LOOKING at upright rods then the baby goats will have stripes; while if their parents were mating BUT NOT LOOKING at upright rods then the baby goats will not have stripes!)
 ---
 
 ---
@@ -9411,6 +10395,10 @@ _
 
 [ Website Builder Software](https://mobirise.com)
 
+
+#### Source text restored from the complete local archive
+
+> (Our sun is a very small star. Actually our solar system (including the atoms that you are made of) came from a dying star 100 times more massive than our sun. Some stars are even bigger than our solar system, so you can imagine how large stars are. However according to the Bible these stars are so small that they could fall on Earth: In Mark 13:24-30 Jesus said that stars will fall on Earth before his second coming. Actually he said that stars will fall on Earth before even that generation pass away. However that generation passed away a long time ago and no star ever fell on Earth nor ever will. Do you know why? Because Earth will vaporize before it even contacts a star; so the events prophesied in the Bible are supposed to occur on Earth when Earth is already vaporized!)
 ---
 
 ---
@@ -9748,6 +10736,12 @@ Today we are sure that we are not living in a "Universe" but rather in a "Multiv
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about string theory?_**
 
+
+#### Source text restored from the complete local archive
+
+> Astronomers have just confirmed the existence of Dark Matter. This mysterious Dark Matter is invisible however it provides the bulk of gravity that holds galaxies (not the regular matter that forms stars and planets). This invisible Dark Matter has weird collision properties (collisionless). Simply put: we cannot see Dark Matter nor collide with it but we can detect its gravity. In this image, two huge clusters of invisible Dark Matter (in blue) clashed with each other. With each cluster having a mass of 10,000 galaxies (each cluster a quadrillion times the mass of the Sun, 10 15 !!!) (See: Universe Today ). However upon impact, instead of disintegrating into smaller pieces, they passed through each other unscathed! This means that they did not collide with each other either! They simply passed through each other!!!
+
+> Futtur in Arabic فُطور is a noun meaning creation out of nothing (it does not mean "rip"). Its verb in past tense is Fattara فَطَرَ and is found in Quran 6:79 meaning "created" (The verb that does mean "ripped" or "destroyed" is its opposite: Tafattara تَفَطّرَ as in Quran 19:90 . Its noun is Tafattur تفطُّر). So the question in the Quran is "Do you see any creation out of nothing?". Your initial answer should be NO. But in the second verse, when you are supposed to redirect your sight your answer will change to YES, with defeat. Why should you redirect your sight when you observe Dark Matter? Why should you look to another direction and then back? Well the gravity of a massive object makes you see the background stars in another direction:
 ---
 
 ---
@@ -9865,6 +10859,10 @@ _
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about sunlight?_**
 
+
+#### Source text restored from the complete local archive
+
+> Quran 17:12 We have made the night and the day two wonders. We erased the wonder of the night, and made the wonder of the day revealing, that you may seek bounty from your Lord, and know the number of years, and the calculation. We have explained all things in detail. ١٢ وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ ۖ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً لِتَبْتَغُوا فَضْلًا مِنْ رَبِّكُمْ وَلِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ وَكُلَّ شَيْءٍ فَصَّلْنَاهُ تَفْصِيلًا
 ---
 
 ---
@@ -10072,6 +11070,10 @@ The Quran says that angels use these wormholes to reach any place in the univers
 
 #####  **_How could an illiterate man who lived 1400 years ago have known about time dilation?_**
 
+
+#### Source text restored from the complete local archive
+
+> 1400 years ago nobody knew about time dilation however we found it portrayed in the Quran. We know from Einstein that my clock and your clock will not run at the same rate. Time (or rate of our clocks) depends on acceleration and/or gravity. If my clock accelerates and/or is in a strong gravitational field then it will run slower than your clock. The stronger the gravity/acceleration the slower the time. So time is relative. Quran 22.47 compares time on Earth with time at Paradise/Hell (1 day vs 1000 years); while Quran 70.4 compares time on Earth with time in wormholes (1 day vs 50,000 years). When angels travel by a wormhole (Miaaraj in Arabic معراج) they experience different time than ours:
 ---
 
 ---
@@ -10630,6 +11632,10 @@ Their is decreases and increases in the womb, today we know that the thickness o
 
 [No Code Website Builder](https://mobirise.com/builder/no-code-website-builder.html)
 
+
+#### Source text restored from the complete local archive
+
+> (While today's scientists have confirmed that animals inherit their colors and stripes from their parents (through DNA), the Christian Bible says something else: In Genesis 30:37-42 , the Bible explains how baby goats get their streaked colors: If their parents were mating AND LOOKING at upright rods then the baby goats will have stripes; while if their parents were mating BUT NOT LOOKING at upright rods then the baby goats will not have stripes!)
 ---
 
 ---
@@ -10752,8 +11758,6 @@ _Those who reject Our revelations and are too arrogant to uphold them, the doors
 
 ---
 
-## 2. Additional Reference Sites
-
 ### Article: Zoology In Quran.
 **URL**: https://www.miracles-of-quran.com/zoology.html
 
@@ -10819,78 +11823,42 @@ Sense Earth's magnetic field.
 
 ---
 
-## 2. Additional Reference Sites
+### Article: Search.
 
-### Site/Article: 7 Undeniable Scientific Miracles of the Quran - Riwaya Blog - Riwaya
-**URL**: https://riwaya.co.uk/riwaya-blog/scientific-miracles-of-the-quran#section-4
+**URL**: https://www.miracles-of-quran.com/search.html
 
-Buy and Sell on Riwaya - the world's first online Islamic premium marketplace. We showcase hand selected sellers in the world and put their products in one website. Born in the COVID-19 pandemic, Riwaya looks to provide a platform to bridge the gap between amazing Islamic sellers and their customers.
+Search. Miracles Of Quran. History. Zoology. Biology. Embryology. Physiology. Chemistry. Geology. Meteorology. Astronomy. Math. Physics. Cosmology. Search. Google Translations: Arabic, Farsi, French, German, Indonesian, Malay, Russian, Spanish, Turkish, Urdu. Simple: History, Zoology, Biology, Chemistry. Intermediate: Mathematics, Astronomy, Geology, Meteorology. Advanced: Cosmology, Embryology, Physiology, Physics. Latest: Vagus Nerve, Nitrogen Cycle, Hypersonic, Neurons. Android App. About Us. Search. Visitors. © No copyrights - You can copy, paste and share... Free AI Website Maker.
 
-### Shop
+---
 
-[Clothing](https://riwaya.co.uk/clothing)
+### Article: AAA category template.
 
-[Islamic books](https://riwaya.co.uk/buy-islamic-books)
+**URL**: https://www.miracles-of-quran.com/page1.html
 
-[Fragrances](https://riwaya.co.uk/islamic-perfumes)
+Miracles Of Quran. History. Zoology. Biology. Embryology. Physiology. Chemistry. Geology. Meteorology. Astronomy. Math. Physics. Cosmology. Category. Science of quantity, structure, space and change. Learn More. Miracles. Digital Books. Replace paper books. Responsive design. Websites look great on all devices. SEO optimization. Websites optimized for search engines. Analytics. Track website traffic and user behavior. eCommerce. Create online stores easily, without coding knowledge. Large community. Active community of users and developers. Security. Websites built with security in mind. Extensions. Add new features and functionality. Simple: History, Zoology, Biology, Chemistry. Intermediate: Mathematics, Astronomy, Geology, Meteorology. Advanced: Cosmology, Embryology, Physiology, Physics. Latest: Vagus Nerve, Nitrogen Cycle, Hypersonic, Neurons. Android App. About Us. Search. Visitors. © No copyrights - You can copy, paste and share... Drag & Drop Website Builder.
 
-[Jewellery](https://riwaya.co.uk/jewellery)
+---
 
-[Islamic home](https://riwaya.co.uk/islamic-art)
+### Article: AA page template 1.
 
-[Kids](https://riwaya.co.uk/kids)
+**URL**: https://www.miracles-of-quran.com/page2.html
 
-[Essentials](https://riwaya.co.uk/essentials)
+Miracles Of Quran. History. Zoology. Biology. Embryology. Physiology. Chemistry. Geology. Meteorology. Astronomy. Math. Physics. Cosmology. Page. Category - Dificulty. Continue. Description. With something meaniongful. "". With something meaniongful. Demo description. Will delete later. Quran: it is a noble Quran. إِنَّهُ لَقُرْآنٌ كَرِيمٌ. Replace this text with something useful. How could an illiterate man who lived 1400 years ago have known about this? Simple: History, Zoology, Biology, Chemistry. Intermediate: Mathematics, Astronomy, Geology, Meteorology. Advanced: Cosmology, Embryology, Physiology, Physics. Latest: Vagus Nerve, Nitrogen Cycle, Hypersonic, Neurons. Android App. About Us. Search. Visitors. © No copyrights - You can copy, paste and share... No Code Website Builder.
 
-[Sale](https://riwaya.co.uk/sale)
+---
 
-[Islamic gifts](https://riwaya.co.uk/gifts)
+## 2. Additional Articles from Other Sites
 
-### Explore
+### Site/Article: 7 Undeniable Scientific Miracles of the Quran
 
-[About Us](https://riwaya.co.uk/about)
+**Published**: August 12, 2024 · Guide to Islamic Beliefs and Events
 
-[Blog](https://riwaya.co.uk/riwaya-blog)
+**Source**: https://riwaya.co.uk/riwaya-blog/scientific-miracles-of-the-quran
 
-[Write for us](https://riwaya.co.uk/write-for-us)
+> Note: the `#section-4` anchor used in `sites.txt` resolves to
+> *Miracle 3: Iron from Space*.
 
-[Prayer Timetables](https://riwaya.co.uk/prayer-timetables)
-
-### Account
-
-Sign In
-
-Register an Account
-
-### Sellers
-
-[Sell with Riwaya](https://riwaya.co.uk/selling-with-riwaya)
-
-Join as a Seller
-
-### Support & Legal
-
-[Contact Us](https://riwaya.co.uk/contact-us)
-
-[FAQs](https://riwaya.co.uk/frequently-asked-questions)
-
-[Returns & Shipping Info](https://riwaya.co.uk/shipping)
-
-[Terms & Conditions](https://riwaya.co.uk/website-terms-and-conditions)
-
-[Privacy Policy](https://riwaya.co.uk/privacy-policy)
-
-[Sitemap](https://riwaya.co.uk/site-map)
-
-Guide to Islamic Beliefs and EventsAug 12, 2024
-
-# 7 Undeniable Scientific Miracles of the Quran
-
-Admin
-
-On this page
-
-Did you know the Quran predicted modern science? In this blog, you will discover seven astonishing scientific miracles hidden in the Quran. 
+Did you know the Quran predicted modern science? In this blog, you will discover seven astonishing scientific miracles hidden in the Quran.
 
 ## The Quran: A Miraculous Book
 
@@ -10914,13 +11882,15 @@ The Quran presents the description of the universe in a remarkable way and it re
 
 (Surah Al-Anbya, Verse 30)
 
+![A Galaxy \(Universe\)](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoOrdUaj-vxReiBgFBNvVBbQ6IcvPkjrc09e7z6giGh39XLYVFFwzmw9omni2-3ol_Me3E2lHTiZTrKk_vgA7OW4iYgaPnAL2ZLWthMoqCSF2dBRYP8W5ERSs1ugiTwItyyAwAn_8r2oG6AKFcL_sUG4SF?key=Voa2BkczY_h2vNETZz3WIA)
+
 This verse aligns closely with the [Big Bang theory](https://www.space.com/25126-big-bang-theory.html), which states that the world originated from a singular point before expanding into its current form. Also, the Quran reveals the universe as a whole. It teaches that the universe is one interconnected system.
 
-Another beauty of Allah’s creation of the universe is its specific order. Every galaxy has its own system and each planet is revolving in its own pre-defined orbit. Mars can’t switch places with Earth and Venus can’t swap spots with Jupiter. 
+Another beauty of Allah’s creation of the universe is its specific order. Every galaxy has its own system and each planet is revolving in its own pre-defined orbit. Mars can’t switch places with Earth and Venus can’t swap spots with Jupiter.
 
 Even a tiny change can cause a huge catastrophe in space. In the Quran, it is stated,
 
-> _“And He is the One Who created the day and the night, the sun and the moon—each travelling in an orbit.”_
+> _“And He is the One Who created the day and the night, the sun and the moon --each travelling in an orbit.”_
 
 (Surah Al-Anbya, Verse 33)
 
@@ -10936,7 +11906,7 @@ The Quran presents the stages of human development in these words:
 
 (Surah Al-Mu’minun, Verses 12-14)
 
-These verses perfectly define the stages of droplets, clot, and lump. Science was not familiar with this fact until the 20th century. 
+These verses perfectly define the stages of droplets, clot, and lump. Science was not familiar with this fact until the 20th century.
 
 ### Miracle 3: Iron from Space
 
@@ -10954,15 +11924,19 @@ The Quran has already indicated that iron originated from space. It is mentioned
 
 Another wonder is the flight of the birds. When the scientists researched the birds and their flight, they discovered the migratory program embedded in their genetic code. Also, the birds use principles of lift and thrust to soar through the air.
 
+![The birds flying in the sky](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDsVgAsZ1R6R2W5NFwAqP9kGIP2s3hORpp8upDIM58vod7RTkPXdQHNkt5RmGLSFba4CwNWEZY2IXka-3snS71mg8_LltQGy9_dC61rdo4atI7xAOZw6T8fPPxGJLZlRR1j6XyFhdYNDAvKylbCqcT6j_j?key=Voa2BkczY_h2vNETZz3WIA)
+
 The Quran's mention of birds and flight is a reminder of the wonders of creation.The Quran describes birds and their ability to fly in Surah 67:
 
-> _“Do they not see the birds above them, spreading their wings and folding them in? None holds them up except the Most Merciful…”_
+> _“Do they not see the birds above them, spreading their wings and folding them in? None holds them up except the Most Merciful …”_
 
 (Surah Al-Mulk, verse 19)
 
 ### Miracle 5: The Mountains as Earth Stabilizers
 
-Modern geology has confirmed that mountains have deep roots that extend into the Earth's crust, much like pegs or stakes. They act as anchors and help prevent earthquakes. 
+![Beautiful view of mountains at sunrise.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEUHVmAibc1n1Hpmn5ohglNdnWqCwc7SbvA5-PPCgTAtd-Kd9qh--x9FDNAIbRcBUQLecTPp2iRFSmwP2LfyTUT4qB9aQmJvp4rIYbiajYhAJjdivfmAVvjHTfGCO3GVJ3MwecklBf_VtYSUPFQ26l6JPk?key=Voa2BkczY_h2vNETZz3WIA)
+
+Modern geology has confirmed that mountains have deep roots that extend into the Earth's crust, much like pegs or stakes. They act as anchors and help prevent earthquakes.
 
 The Quran also mentions the mountains and their role in stabilising the Earth. It is stated:
 
@@ -10972,7 +11946,7 @@ The Quran also mentions the mountains and their role in stabilising the Earth. I
 
 ### Miracle 6: Fresh Meets Salt: A Natural Barrier
 
-Scientists have discovered that each sea has its own temperature, density, and saltiness. When two seas come together, they create a mixing zone where the waters blend but still maintain some of their differences. 
+Scientists have discovered that each sea has its own temperature, density, and saltiness. When two seas come together, they create a mixing zone where the waters blend but still maintain some of their differences.
 
 This idea is reflected in the Quran in these words:
 
@@ -10994,7 +11968,7 @@ One of the most famous examples is code 19. It is mentioned in the 74th Surah of
 
 In 1974, Rashad Khalifa, an Egyptian American biochemist, noticed something special about the number 19 in the Quran. This number appears often in the Quran, especially in Surah 74. Interestingly, if you add 19 and 74, you get 1974, the year this discovery was made.
 
-This is even more amazing when you look at the Islamic calendar. If you count the years since the Quran was first revealed, it's 1406 years, which is 19 multiplied by 74. 
+This is even more amazing when you look at the Islamic calendar. If you count the years since  the Quran was first revealed, it's 1406 years, which is 19 multiplied by 74.
 
 Other numerical patterns include the equal mention of opposites, such as:
 
@@ -11002,139 +11976,29 @@ Other numerical patterns include the equal mention of opposites, such as:
 
 \- The word ‘Mala’ika’ (angels) is mentioned 88 times, and the word ‘Shayatin’ (devils) is mentioned 88 times.
 
-Moreover, in the Qur'an, the word ‘Al Qamar’ (moon) appears 27 times. This is the time period in which the moon completes its orbit around the earth. We know the lunar month has 29 days. 
+Moreover, in the Qur'an, the word ‘Al Qamar’ (moon) appears 27 times. This is the time period in which the moon completes its orbit around the earth. We know the lunar month has 29 days.
 
-The main reason behind this difference is that when the moon revolves around the Earth, the Earth also revolves around the sun. Due to which the moon completes its rotation around the Earth after two days' delay. 
+The main reason behind this difference is that when the moon revolves around the Earth, the Earth also revolves around the sun. Due to which the moon completes its rotation around the Earth after two days' delay.
 
 Do you want to unlock more mathematical miracles of the Quran? If yes, click [here](https://journals.iub.edu.pk/index.php/uas/article/view/1823).
 
 ## Conclusion
 
-In a nutshell, the Quran contains dumbfounding miracles that were unknown 1400 years ago. From its mention of the universe creation to the birds’ flight, all align with modern science. These insights show that the Quran is not only a religious book but also a remarkable source of knowledge.
+In a nutshell, the Quran contains dumbfounding miracles that were unknown 1400 years ago. From its mention of the universe creation to the birds’ flight, all align with modern science. These insights show that the Quran is not only a religious book but also a remarkable source of  knowledge.
 
-Explore our diverse collection of [Islamic books](https://riwaya.co.uk/buy-islamic-books) that cater to every interest and level of understanding. Start your journey toward greater knowledge and spiritual growth—shop now!
-
-## Sell with Riwaya
-
-Are you a Quran seller aiming to connect with buyers globally?
-
-[Join Riwaya](https://riwaya.co.uk/sell-on-riwaya) to connect with a global audience seeking authentic Quran. Let's promote Islamic culture and heritage together.
-
-## Subscribe to Our Newsletter
-
-From helpful tips to unique products, receive inspiration that makes life a little easier.
-
-Subscribe
-
-## Shop Riwaya
-
-World's first online premium islamic gifts marketplace.
-
-clothingislamic booksfragrancesjewelleryislamic homekidsessentialssale
-
-## Find Products
-
-Shop at Riwaya and get discounts and vouchers from sellers of muslim community
-
-## Curated For You
-
-[Baraccat 100ml Unisex Eau de Parfum — EDP, Oriental Floral Fragrance, Jasmine Saffron & Ambergris | Islamic & Eid Gift for Her & Him](https://riwaya.co.uk/baraccat-100ml)
-
-Flourish Fragrances
-
-£30.00
-
-[Royal Oud Stallion 100ml Unisex Extrait de Parfum by LXR — Luxury Oud Scent, Designer-Inspired Fragrance | Islamic & Eid Gift for Her & Him](https://riwaya.co.uk/royal-oud-stallion-100ml-by-lxr)
-
-Flourish Fragrances
-
-£25.00
-
-[LXR Kadenza Oudh 100ml Unisex Extrait de Parfum — Oud Perfume, Saffron Spice & Leather Fragrance | Islamic & Eid Gift for Her & Him](https://riwaya.co.uk/kadenza-oudh-100ml-extrait-de-parfum-by-lxr-unisex)
-
-Flourish Fragrances
-
-£25.00
-
-[Ahmed Al Maghribi Rawdha 50ml Unisex EDP — Eau de Parfum, Oud Saffron Rose Fragrance | Islamic & Eid Gift for Her & Him](https://riwaya.co.uk/rawdha-by-ahmed-al-maghribi-50ml-edp-unisex)
-
-Flourish Fragrances
-
-£42.00
-
-[1864 Palestine Map Framed Print Holy Land Historical — Vintage Mitchell Map, Jerusalem Wall Art | Islamic Gift, Ramadan & Eid Gift](https://riwaya.co.uk/map-of-palestine-entered-according-to-the-us-act-of-congress-1864-framed-print)
-
-Manara Print
-
-£17.50
-
-[Learning Arabic Numbers Activity Workbook for Kids — Fun Educational Book, Number Recognition & Tracing | Islamic Gift, Ramadan & Eid Gift](https://riwaya.co.uk/learning-arabic-numbers-for-kids-goodword-books)
-
-Pure Sunnah Co
-
-£4.95
-
-[Learning Arabic Writing Activity Book for Kids — Fun Arabic Alphabet Workbook, Handwriting Practice | Islamic Educational Gift, Ramadan & Eid Gift](https://riwaya.co.uk/learning-arabic-writing-fun-activities-kids-goodword)
-
-Pure Sunnah Co
-
-£4.95
-
-[Surrati Dream Valley 140ml Unisex EDP — Eau de Parfum, Fresh Floral Amber Scent | Islamic & Eid Gift for Her & Him](https://riwaya.co.uk/dream-valley-by-surrati-140ml-edp-unisex)
-
-Flourish Fragrances
-
-£25.00
-
-[Arabic Reading Reward Stickers 180-Pack — Good Reading Stickers, Great Reading Labels for Kids | Islamic, Eid & Ramadan Gift](https://riwaya.co.uk/arabic-reading-reward-stickers)
-
-Iqra Games
-
-£4.99
-
-[Arabic Reward Stickers Bilingual Praise 216-Pack 6 Sheets — Motivational Teacher Stickers, Mumtaz Excellent Stickers, Islamic Learning Labels | Islamic Gift, Ramadan & Eid Gift](https://riwaya.co.uk/arabic-reward-stickers)
-
-Iqra Games
-
-£5.99
-
-[Lavender Healing Tallow Balm 30g with Grass Fed Halal Beef — Organic Moisturising Skin Balm, Nourishing Body Butter | Islamic Gift, for Her](https://riwaya.co.uk/healing-tallow-balm-lavender-oil)
-
-Dewy Skin
-
-£13.00
-
-[Sweet Orange Healing Tallow Balm 30g — Nourishing Skin Moisturiser, Soothing Balm | Islamic Gift, for Her](https://riwaya.co.uk/healing-tallow-balm-sweet-orange)
-
-Dewy Skin
-
-£13.00
-
-ByAdmin
-
-Published on August 12, 2024
-
-## Related Blogs
-
-[Islamic LifestyleSep 27, 2026​Unexpected Ramadan Umrah Costs You Should Budget ForAdmin](https://riwaya.co.uk/riwaya-blog/umrah-costs-budget-management-in-ramadan)[Islamic Products GuideAug 27, 2026Top 6 Must-Read Seerah Books About Prophet Muhammad (PBUH)Admin](https://riwaya.co.uk/riwaya-blog/top-seerah-books-about-muhammad-pbuh)[Islamic LifestyleAug 20, 2026How to Stay Healthy During Umrah 2027? Guidelines for PilgrimsAdmin](https://riwaya.co.uk/riwaya-blog/how-to-stay-healthy-during-umrah)
-
-#### Want to Share Your Voice With Our Community?
-
-If you'd like to contribute your story, insights, or tips, here's what you'll need to get started.
-
-[View Contribution Guidelines](https://riwaya.co.uk/write-for-us)
+Explore our diverse collection of [Islamic books](https://riwaya.co.uk/buy-islamic-books) that cater to every interest and level of understanding. Start your journey toward greater knowledge and spiritual growth--shop now!
 
 ## FAQs
 
-### Q1. What is the biggest miracle in the Quran?
+> The answers to these questions are rendered client-side by a JavaScript
+> accordion and are not present in the page HTML, so they could not be
+> extracted.
 
-### Q2. Is the Quran scientifically correct?
-
-### Q3. Is black hole mentioned in the Quran?
-
-### Q4. How many scientific verses are in the Quran?
-
-### Q5. Has the Quran ever changed?
+- Q1. What is the biggest miracle in the Quran?
+- Q2. Is the Quran scientifically correct?
+- Q3. Is black hole mentioned in the Quran?
+- Q4. How many scientific verses are in the Quran?
+- Q5. Has the Quran ever changed?
 
 ---
 
@@ -11363,75 +12227,387 @@ Manage consent
 
 ---
 
-### Site/Article: The Mathematical Miracle of the Quran, The Source of Miracles | Questions on Islam
-**URL**: https://questionsonislam.com/article/mathematical-miracle-quran-source-miracles
-
-# The Mathematical Miracle of the Quran, The Source of Miracles
+### Site/Article: The Mathematical Miracle of the Quran, the Source of Miracles
 
 **Source**: https://questionsonislam.com/article/mathematical-miracle-quran-source-miracles
 
-### Overview and Core Concepts
+> Retrieved via the Internet Archive Wayback Machine (snapshot 2025-07-10); the live site blocks automated requests with Cloudflare.
+> English translation of the work of Abdurrazzaq Nawfal, *al-I’jazul-Adadi lil-Quranil-Kerim*.
 
-The subject of mathematical and numerical miracles in the Quran explores the complex symmetry, exact repetition of words, structural alignment with natural phenomena, and numerical patterns present throughout the Quranic revelation.
+Allah created man only to worship Him and to make religion belong to Him. He sent prophets to make people worship Him, not to associate partners with Him, and to explain how this duty of worship should be in accordance with the books He sent down to His Messengers.
 
-#### Key Areas of Mathematical Miracles
+Every prophet needed a miracle confirming and supporting him against his people that what he brought was from Allah. The miracle had to be a challenge to those who worshipped beings other than Allah. For example, the miracle of the Prophet Ibrahim (Abraham) was as follows: When he broke the idols that people worshipped besides Allah, his own people grabbed him and threw him into the fire. The fire was real fire. Ibrahim was put into this fire in front of everyone but he came out of it unharmed... So, what was the reason for it? There must have been a great force to stop the burning property of fire. The Lord of the realms said, **“O fire! Be thou cool, and (a means of) safety for Abraham.”** Was it possible for those shattered idols command the fire to burn Abraham? That was the challenge and a miracle...
 
-1. **Word Frequency and Exact Symmetries**:
-   - **Day (*Yawm*)**: Repeated exactly 365 times in the singular, matching the number of days in a solar year.
-   - **Days (*Ayyam* / *Yawmayn*)**: Repeated 30 times, matching the number of days in a month.
-   - **Month (*Shahr*)**: Repeated exactly 12 times, corresponding to the 12 months of the year.
-   - **World (*Dunya*) and Hereafter (*Akhirah*)**: Both words appear exactly 115 times each.
-   - **Angels (*Mala'ikah*) and Devils (*Shayatin*)**: Both appear exactly 88 times each.
-   - **Life (*Hayat*) and Death (*Mawt*)**: Both words are mentioned 145 times each.
-   - **Man (*Rajul*) and Woman (*Imra'ah*)**: Both mentioned 24 times each.
-   - **Land (*Barr*) and Sea (*Bahr*)**: Land is mentioned 13 times and Sea 32 times (Total = 45). The ratio of Land (13/45 = 28.88%) to Sea (32/45 = 71.11%) accurately reflects Earth's land-to-ocean surface area ratio.
+The Prophet Jesus (Isa) was sent as a prophet to a people who were advanced in medicine. So, his miracle was in medicine. He cured blindness and treated vitiligo disease. The challenge reached its climax and Jesus, son of Mary, resurrected the dead with Allah’s permission.
 
-2. **The Numerical Code of 19**:
-   - The primary verse referenced is Surah Al-Muddaththir (74:30): *"Over it are nineteen."*
-   - The opening formula **Basmalah** (*Bismillah ar-Rahman ar-Rahim*) consists of 19 Arabic letters.
-   - Each individual word of the Basmalah occurs in frequencies that are exact multiples of 19 throughout the Quran:
-     - *Ism* (Name): 19 times (19 x 1)
-     - *Allah*: 2698 times (19 x 142)
-     - *Ar-Rahman* (The Most Gracious): 57 times (19 x 3)
-     - *Ar-Rahim* (The Most Merciful): 114 times (19 x 6)
-   - Total surahs in the Quran: 114 (19 x 6).
+The Prophet Moses (Musa) was sent as a prophet to a people who were advanced in in the science of magic, and his miracle was about magic. His staff (wand) turned into a fast snake as soon as he threw it and swallowed all the magic of the others. The challenge reached its climax when he hit the sea with his staff and Allah stopped the water’s ability to sink. A road stretched out for Moses and those who believed with him to pass. Afterwards, Almighty Allah gave water back its property; then, Pharaoh and his army sank... They are some of the material miracles with which Allah supported His prophets.
 
-3. **Scholarly Consensus & Philosophical Significance**:
-   - While mathematical symmetries offer fascinating empirical observations of Quranic structure, classical and contemporary scholars emphasize that the primary, insurmountable miracle of the Quran is its **linguistic eloquence, moral guidance, scientific foresight, and spiritual transformation**.
-   - Numerical harmonies serve as an additional layer of structural protection and internal evidence reinforcing the unalterable divine preservation of the text.
+Then, the Prophet Muhammad (pbuh) came. His prophethood had some features not found in the previous ones:
+
+**Firstly:** He was not sent to any tribe, but to the whole world.
+
+**Secondly:** He was the last of the prophets. There will be neither prophethood nor a prophet after him.
+
+**Thirdly:** His miracle is a miracle that will continue as long as the life of this world continues; he brought the Quran in Arabic.
+
+Even this miracle alone is a source of miracles. The Lord of the worlds calls out to humans and jinn saying,
+
+> **“Say, ‘If the whole of mankind and Jinn were to gather together to produce
+> the like of this Qur’an, they could not produce the like thereof, even if
+> they backed up each other with help and support.’”** _(al-Isra, 17/88)_
+>
+> He also says,
+>
+> **“And if ye are in doubt as to what We have revealed from time to time to
+> Our servant, then produce a Sura like thereunto; and call your witnesses or
+> helpers (If there are any) besides Allah, if your (doubts) are true.”**
+> _(al-Baqara, 2/23)_
+
+This challenge targeted the Arabs, who were advanced in Arabic, the language of the Quran. At the same time, this was a challenge that will exist against all realms until Doomsday in every field where human means will reach... Allah, the Provider (ar-Razzaq), opened doors that would enable His servant to understand the verses of the Quran through the blessing of His mercy in order to show a field that reminds him of one of the miraculousness of the Quran with the challenge **“Come on, bring a similar surah.”** This field is the field of numerical miracle of the Quran presented by Abdurrazzaq Nawfal. May Allah reward him, the Muslims and everyone who reads this miracle and believes in it with the Quran.
+
+**The numerical miraculousness of the Quran reveals - in our opinion - three essential truths for everyone living in this age:**
+
+**First truth:** The Quran was not written by a human being; it is from Allah.
+
+**Second truth:** There has been no change, displacement or distortion in the Quran since the moment it was sent down up to the present day.
+
+**Third truth:** The Quran is a miracle that will continue until the Day of Judgment.
+
+Consequently, when a person sees these facts clearly, he will have no choice but to believe in Allah, His prophet and His clear book, and to affirm them. From this point of view, acting in accordance with the Quran and what it brings will be the only separating and just border between guidance and aberration. Nawfal states the following in his book entitled the Numerical Miracle of the Quran:
+
+> **This miraculousness is a positive and material miracle that does not
+> accept arguments and cannot be disputed. It is an indisputable miracle
+> because the language of numbers is distinctive... The words of numbers and
+> calculations are definite.”**
+
+### A STUDY REGARDING THE ISSUE:
+
+The Quran has had an easy and understandable language that can be understood by every group of people living in every age since the day it was revealed. The perfection of its literary language, its unique stylistic features and the superior wisdom it contains are among the most important reasons for it. In addition to this, the Quran has many other miraculous features proving that it is the word of Allah. One of them is the remarkable repetitions of words in the Quran.
+
+Allah sent down the Quran, a guiding book, 14 centuries ago and invited all humanity to attain salvation by following the Quran. The following is stated in the Quran
+
+**“...But it is nothing less than a Message to all the worlds.”** _(al-Qalam, 68/52)_
+
+The Quran will be the last divine book, the only guide for humanity, from the day it was revealed until the Day of Judgment. In addition to the fact that some scientific truths, which we attained only with the technology of the 20th and 21st centuries, were reported in the Quran 1400 years ago, it also possesses many miraculous features that prove it is the word of Allah. One of those features is its **“mathematical miracle”****s.** An example of that miracle is the common number obtained by some word repetitions in the Quran. Some related words are miraculously repeated the same number of times. Below are such words and the number of their repetitions in the Quran.
+
+The phrase “seven skies” is used 7 times. The expression “creation of the heavens (khalqu samawat)” is also repeated 7 times.
+
+**“Day (yawm)”** is used 365 times as a singular word while its plural forms **“days (ayyam and yawmayn)”** are repeated 30 times. The number of repetitions of the word **“month”** is 12.
+
+The number of repetitions of the words**“plant”** and **“tree”** is the same: 26
+
+**The word****“punishment”** is mentioned 117 times while the word **“forgiveness”****, which is one of the basic characteristics of the ethical values of the Quran,** is repeated 234 times, exactly twice that number.
+
+**The word****“say”** is used 332 times. We get the same number when we count the phrase **“they said”****.**
+
+**The word****“world”** and the word **“hereafter”** are also repeated the same number of times: 115
+
+**The word****“Satan”** is mentioned 88 times in the Quran. The number of repetitions of the word **“angel”** is also 88.
+
+**The word****“belief”**(without being in a phrase) and **“unbelief”** are repeated 25 times throughout the Quran.
+
+**The word****“Paradise”** and the word **“Hell”** are repeated the same number of times: 77.
+
+**The word****“zakah”** is repeated 32 times in the Quran while the number of times the word **“abundance/blessing”****is used is also 32.**
+
+**The word****“abrar (good ones)”** is repeated 6 times while the word **“fujjar (bad ones)”** is repeated half as much, that is, 3 times.
+
+The words **“summer-hot”** and **“winter-cold”****are repeated equally: 5 times.**
+
+The words **“wine (hamr)”** and **“drunkenness (sakara)”** are repeated the same number of times in the Quran: 6
+
+The number of the repetitions of **“reasoning”** and **“light”****is also the same: 49**
+
+**The words****“tongue”** and **“sermon”** are repeated an equal number of times: 25 times.
+
+**The word****“benefit”****is repeated** 50 times and the word **“destruction”** is repeated 50 times.
+
+**The words****“love”** and **“obedience”** are repeated the same number of times: 83
+
+**The words****“return”** and **“endless”** appear in equal numbers in the Quran: 28
+
+**The word****“misfortune”** and the word **“gratitude”** exist the same number of times in the Quran: 75 times.
+
+**The word****“sun (shams)”** and **“light (nur)”** exist 33 times each in the Quran.
+
+In the calculation, only the plain forms of the word **“light”****was taken into account.**
+
+**The words****“guiding (alhuda)”** and **“mercy”** are repeated equally: 79 times
+
+**The word****“distress”** exists 13 times in the Quran and the word **“peace”** is also repeated 13 times.
+
+The number of the repetitions of the words **“woman”** and **“man”****is also the same: 24**
+
+**The word****“treason”** is used 16 times and word **“malicious”** is repeated 16 times.
+
+**The word****“human”** exists 65 times in the Quran; the sum of the number of stages of human creation is also the same.
+
+The word salawat exists 5 times in the entire Quran, and Allah orders people to pray five times a day.
+
+**The word****“land”** exists 13 times in the Quran and the word **“sea”** exists 32 times. The sum of these numbers is 45. If we divide 13, which is the number of mentions of land in the Quran, by 45, we get the number 28.888888888889%. When we divide 32, which is the number of mentions of the seas in the Quran, by 45, we find the number 71,111111111111%. These ratios are the actual ratio of water and land parts on our planet. (Scientific Miracles)
+
+Seven heavens 7 times Creation of the heavens (khalqu samawat) 7 times
+
+Day (yawm) 365 Days (ayyam,yawmayn ) 30 Month (shahr) 12
+
+Plant 26 times Tree 26 times
+
+Punishment 117 times Forgiveness 117X2=234 times
+
+Say 332 times They said 332 times
+
+World 115 times Hereafter 115 times
+
+Satan 88 times Angel 88 times
+
+Belief 25 times Unbelief 25 times
+
+Paradise 77 times Hell 77 times
+
+Zakah 32 times Abundance/Blessing 32 times
+
+Good ones (abrar) 6 times Bad ones (fujjar) 3 times
+
+Summer-hot 5 times Winter-cold 5 times
+
+Wine 6 times Drunkenness 6 times
+
+Reasoning 49 times Light 49 times
+
+Tongue 25 times Sermon 25 times
+
+Benefit 50 times Destruction 50 times
+
+Love 83 times Obedience 83 times
+
+Return 28 times Endless 28 times
+
+Misfortune 75 times Gratitude 75 times
+
+Sun (shams) 33 times Light (nur) 33 times
+
+Alhuda 79 times Mercy 79 times
+
+Distress 13 times Peace 13 times
+
+Woman 24 times Man 24 times
+
+Betrayal 16 times Malicious (deceitful) 16 times
+
+Human 65 Soil (turabun) 17
+
+Nutfah (nutfun) 12
+
+Embryo (alaq) 6
+
+a small piece of chewed meat (mudghah) 3
+
+Bone (izamun) 15
+
+Et (lahmun) 12
+
+Total 65
+
+Salawat 5 times Prayer 5 times
+
+Land 13 times 13/45= 28.88888889 Sea 32 times 32/45= 71.111111111%
+
+Total 45 times 100%
+
+### The Quran is the Word of Allah
+
+The common numbers obtained by the repetitions of words in the Quran are just one of the clear proofs that the Quran is the word of Allah. Facts that could not be known by anyone at that time were reported in the verses, both in scientific issues, in the news from the past and the future, and in mathematical encryptions.
+
+Every piece of information in the Quran, the unknown hidden miracles of this Divine Book, shows just one of the proofs of our Almighty Lord’s endless knowledge. The following is stated in a verse:
+
+**“...Had it been from other than Allah, they would surely have found therein much discrepancy.”** _(an-Nisa, 4/82)_
+
+Reference: Abdurrazzaq Nawfal, al-I’jazul-Adadi lil-Quranil-Kerim, Beirut.
+
+Zaghlul an-Najjar, Qadiyyatul-I’jazil-Ilmi lil-Quranil-Karim, Daru Nahdati Misr, Giza, 2006.
 
 ---
 
-### Site/Article: Scientific Miracles in the Holy Quran: Evidence of Divine Revelation
-**URL**: https://medium.com/@farsim/scientific-miracles-in-the-holy-quran-evidence-of-divine-revelation-87750ece4782
+### Site/Article: Scientific Miracles in the Holy Qur’an: Evidence of Divine Revelation
 
-# Scientific Miracles in the Holy Quran: Evidence of Divine Revelation
+**Author**: Mahmood Hossain · **Published**: December 22, 2024
 
 **Source**: https://medium.com/@farsim/scientific-miracles-in-the-holy-quran-evidence-of-divine-revelation-87750ece4782
 
-### Summary and Analysis of Scientific Proofs
+![Image 2](https://miro.medium.com/v2/resize:fit:700/1*gXkIYjppWqorqDQpOVuNOQ.jpeg)
 
-This comprehensive article explores how 7th-century Quranic revelations accurately anticipated key scientific discoveries established in modern astrophysics, embryology, oceanography, geology, and atmospheric science.
+Photo by [Syed Aoun Abbas](https://unsplash.com/@aoun17?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-and-beige-area-rug-v__B86PhdM0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-#### Key Scientific Miracles Highlighted
+> We often think of our brains as the sole command center for thoughts and decisions, but what if I told you that our hearts hold a secret intelligence of their own? This intriguing notion has recently gained traction in [scientific circles](https://www.rcpsych.ac.uk/docs/default-source/members/sigs/spirituality-spsig/spirituality-special-interest-group-publications-professor-mohamed-omar-salem-the-heart-mind-and-spirit.pdf?sfvrsn=47fea910_2#:~:text=After%20extensive%20research%2C%20Armour%20(1994,neurites%20(Armour%2C%201991).), suggesting that our hearts are not just pumps for blood but also possess the **ability to think, learn, and even remember**.
+>
+>
+> Remarkably, this concept is not new; it was hinted at in the Holy Qur’an centuries ago.In various verses, Allah refers to the heart as a vessel of understanding and cognition. For example, in Surah Al-A’raf, it is stated: “They have **hearts they do not understand with**, eyes they do not see with, and ears they do not hear with” (Quran 7:179), indicating that the heart has its own capacity for comprehension. Similarly, in Surah Al-Hajj, Allah emphasizes the heart’s role in reasoning: “Have they not travelled throughout the land so their **hearts may reason**, and their ears may listen?” (Quran 22:46).
 
-1. **Cosmology and Astrophysics**:
-   - **Big Bang Theory (Surah Al-Anbiya 21:30)**: *"Do not those who disbelieve see that the heavens and the earth were a joined entity, then We ripped them apart?"* Accurately depicts the initial singularity and cosmic inflation.
-   - **Expanding Universe (Surah Az-Zariyat 51:47)**: *"And the heaven We constructed with strength, and indeed, We are [its] expander."* Directly mirrors Edwin Hubble's discovery of the expansion of space.
-   - **Orbital Mechanics & Celestial Motion (Surah Al-Anbiya 21:33)**: *"And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming."* Confirms planetary and stellar orbits.
+### Subhan Allah ! (Glory be to God)
 
-2. **Embryology and Human Biology**:
-   - **Stages of Fetal Development (Surah Al-Mu’minun 23:12-14)**: Details the progression from *Nutfah* (drop/zygote) to *Alaqah* (clinging clot/leech-like structure) to *Mudghah* (chewed lump/somite stage) to the formation of bones and flesh.
-   - **Pain Receptors in Skin (Surah An-Nisa 4:56)**: Points out that pain perception resides in skin layers, confirmed by modern neurobiology regarding cutaneous nociceptors.
+Throughout history, the Holy Qur’an has mentioned numerous facts that scientists have later discovered, verified, and continue to explore.
 
-3. **Geology and Oceanography**:
-   - **Mountains as Stabilizing Pegs (*Autad*) (Surah An-Naba 78:6-7)**: Explains the deep crustal roots (*isostasy*) of mountain ranges that stabilize continental tectonic plates.
-   - **Internal Ocean Waves and Oceanic Barriers (Surah An-Nur 24:40 & Surah Ar-Rahman 55:19-20)**: Describes deep-sea internal waves beneath pycnoclines and halocline barriers where fresh and saltwater bodies meet without mixing.
+The Holy Qur’an, the sacred text of Islam, is not only a spiritual guide but also a treasure trove of knowledge that has stood the test of time. Over the centuries, numerous scientific discoveries have corroborated the verses found within its pages. This blog (with the help of AI) explores some of these fascinating intersections between modern science and the teachings of the Qur’an, inviting us to delve deeper into the profound wisdom contained within this divine scripture.
 
-4. **Conclusion**:
-   - These precise descriptions—revealed over 1400 years ago in an unlettered desert environment—provide compelling evidence of divine origin, inspiring deep alignment between faith, reason, and scientific inquiry.
+## Water: The Origin of Life
+
+Qur’anic Verse: _“And We created from water every living thing. Will they not then believe?”_ (Quran 21:30)
+
+**Scientific Explanation**:
+
+*   Microscopic Discovery: The invention of the microscope in the 17th century allowed scientists to observe that all living cells contain water. Water is essential for life as it is a universal solvent, facilitating chemical reactions necessary for biological processes. [_“The Role of Water in the Origin of Life” by David Deamer and Giovanni Maggi (2016)_]
+*   Cellular Composition: Water makes up a significant portion of living organisms — about 70% of the human body is water. It is crucial for the transport of nutrients, waste removal, and maintaining cellular structure. [“_Water, Life, and Planetary Evolution” by David Grinspoon (2004)_]
+
+## The Big Bang Theory: The Beginning of the Universe
+
+Qur’anic Verse: _“Do the disbelievers not realize that the heavens and earth were ˹once˺ one mass then We split them apart?”_ (Quran 21:30)
+
+![Image 3](https://miro.medium.com/v2/resize:fit:700/0*jEfkumHd5cZtt9IL.jpg)
+
+Source : Wikipedia
+
+**Scientific Explanation**:
+
+*   Hubble’s Law: In 1929, Edwin Hubble observed that galaxies are moving away from us, and the further they are, the faster they move. This led to the formulation of Hubble’s Law, which supports the idea of an expanding universe.[“_A Relation Between Distance and Radial Velocity Among Extra-Galactic Nebulae” by Edwin Hubble (1929)_]
+*   Big Bang Theory: The Big Bang theory proposes that the universe began as a singularity — a single, dense point — about 13.8 billion years ago. This point exploded, leading to the expansion of the universe. [_“The First Three Minutes: A Modern View of the Origin of the Universe” by Steven Weinberg (1977) ]_
+*   Cosmic Microwave Background Radiation: In 1965, Arno Penzias and Robert Wilson discovered the cosmic microwave background radiation, providing strong evidence for the Big Bang theory.
+
+## The Big Crunch Theory: The End of the Universe
+
+Qur’anic Verse: _“On that Day We will roll up the heavens like a scroll of writings. Just as We produced the first creation, ˹so˺ shall We reproduce it. That is a promise binding on Us. We truly uphold ˹Our promises˺!”_ (Quran 21:104)
+
+**Scientific Explanation:**
+
+*   Big Crunch Theory: One of the possible scenarios for the end of the universe is the Big Crunch, where the expansion of the universe slows down and eventually reverses due to gravitational forces, leading to a collapse back into a singularity. [“_The Fate of the Universe” by Lawrence M. Krauss and Michael S. Turner (2001) ]_
+*   Einstein’s Theory of General Relativity: This theory predicts that if the density of the universe is high enough, gravity will cause the universe to contract.
+
+## Embryology: The Development of the Human Embryo
+
+Qur’anic Verse: _“And indeed, We created humankind from an extract of clay, then placed each ˹human˺ as a sperm-drop in a secure place, then We developed the drop into a clinging clot, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators.”_ (Quran 23:12–14)
+
+**Scientific Explanation:**
+
+*   Stages of Embryonic Development:
+*   Zygote: The fertilized egg.
+*   Blastocyst: A hollow ball of cells.
+*   Embryonic Disc: The formation of the embryo.
+*   Gastrula: The stage where the three germ layers (ectoderm, mesoderm, and endoderm) form.
+*   Fetus: The fully formed embryo.
+*   Keith L. Moore’s Testimony: Dr. Keith L. Moore, a renowned embryologist, has stated that the Qur’anic descriptions of embryonic development are accurate and were not known until much later.
+
+## The Sky’s Protection: A Shield Against Harmful Rays
+
+Qur’anic Verse: _“And We have made the sky a well-protected canopy, still they turn away from its signs”_(Quran 21:32)
+
+**Scientific Explanation:**
+
+*   Atmospheric Layers: The Earth’s atmosphere consists of several layers, including the troposphere, stratosphere, mesosphere, and thermosphere. Each layer plays a role in protecting the Earth from harmful solar radiation. [“_The Earth’s Atmosphere and Its Role in Climate Change” by James K. B. Bishop (2007)_]
+*   Ozone Layer: The ozone layer in the stratosphere absorbs most of the Sun’s ultraviolet (UV) radiation, preventing it from reaching the Earth’s surface. [“_Stratospheric Ozone Depletion and Climate Change” by Susan Solomon (2007_)]
+
+## Iron Within Meteorites: A Gift from the Heavens
+
+Qur’anic Verse: _“And We sent down iron with its great might, benefits for humanity, and means for Allah to prove who ˹is willing to˺ stand up for Him and His messengers without seeing Him. Surely Allah is All-Powerful, Almighty.”_ (Quran 57:25)
+
+**Scientific Explanation:**
+
+*   Meteoritic Iron: Scientists have determined that most of the iron on Earth’s surface came from meteorites. These meteorites impacted the Earth billions of years ago, bringing iron with them. [“_The Origin of Iron in the Earth’s Crust” by John T. Wasson (1985)_]
+*   Importance of Iron: Iron is crucial for human civilization, used in construction, manufacturing, and various technological applications. It is also essential for biological processes, such as the production of hemoglobin in red blood cells. [“_Iron: Its Role in Human Physiology” by John D. Beard (2001)_]
+
+## The Meeting of the Seas: Barriers in the Ocean
+
+Qur’anic Verse: _“He merges the two bodies of ˹fresh and salt˺ water, yet between them is a barrier they never cross.”_ (Quran 55:19–20)
+
+![Image 4](https://miro.medium.com/v2/resize:fit:700/0*EADBk1IA2uPakBFf.jpg)
+
+Source : ecobnb.com
+
+**Scientific Explanation:**
+
+*   Oceanography: Where two different bodies of water meet, such as the Red Sea and the Indian Ocean, there is often a visible boundary due to differences in temperature, salinity, and density. [“_Physical Oceanography: A Mathematical Introduction with MATLAB” by Reza Malek-Madani (2011)_]
+*   Physical Properties: The barrier is maintained by the physical properties of the water, preventing the two bodies from mixing completely. This phenomenon can be observed in estuaries and other coastal areas. [“_The Dynamics of Ocean Mixing” by Peter Killworth (1997)_]
+
+## Sun Moving in Orbit: Celestial Bodies in Motion
+
+Qur’anic Verse: _“And He is the One Who created the day and the night, the sun and the moon — each travelling in an orbit.”_ (Quran 21:33)
+
+Join Medium for free to get updates from this writer.
+
+**Scientific Explanation:**
+
+*   Galactic Motion: The Sun, along with the entire Solar System, orbits the center of the Milky Way galaxy. This orbit takes about 225–250 million years to complete. [_“The Motion of the Solar System in the Galaxy” by J. Binney and S. Tremaine (2008)_]
+*   Planetary Orbits: The planets in our Solar System also orbit the Sun, following elliptical paths as described by Kepler’s laws of planetary motion. [_“Planetary Sciences” by Imke de Pater and Jack J. Lissauer (2010)_]
+
+## Mountains as Stakes: Anchors of the Earth
+
+Qur’anic Verse: _“Have We not smoothed out the earth ˹like a bed˺, and ˹made˺ the mountains as ˹its˺ pegs.”_ (Quran 78:6–7)
+
+**Scientific Explanation:**
+
+*   Geophysical Role: Mountains act as stabilizers for the Earth’s crust, helping to prevent excessive tectonic activity. They extend deep into the Earth, providing structural support. [_“The Role of Mountains in the Earth’s Tectonic System” by John F. Dewey (1988)_]
+*   Tectonic Plates: The roots of mountains can extend several kilometers into the Earth’s mantle, anchoring the tectonic plates and reducing the likelihood of earthquakes and other geological disturbances. [_“Plate Tectonics: An Insider’s History of the Modern Theory of the Earth” by Naomi Oreskes (2003)_]
+
+## Expansion of the Universe: A Cosmic Journey
+
+Qur’anic Verse: _“We built the universe with ˹great˺ might, and We are certainly expanding ˹it˺”_ (Quran 51:47)
+
+**Scientific Explanation:**
+
+*   Hubble’s Discovery: Edwin Hubble’s observation of the redshift in distant galaxies provided the first evidence of the expanding universe. [_”A Relation Between Distance and Radial Velocity Among Extra-Galactic Nebulae” by Edwin Hubble (1929)]_
+*   Cosmic Expansion: The universe is not only expanding but doing so at an accelerating rate, driven by a mysterious force known as dark energy. [“_The Accelerating Universe” by Adam G. Riess (2004)]_
+
+## Pain Receptors: Sensory Mechanisms in the Skin
+
+Qur’anic Verse: _“Surely those who reject Our signs, We will cast them into the Fire. Whenever their skin is burnt completely, We will replace it so they will ˹constantly˺ taste the punishment. Indeed, Allah is Almighty, All-Wise”_ (Quran 4:56)
+
+**Scientific Explanation:**
+
+*   Pain Receptors: The skin contains specialized nerve endings called nociceptors, which detect painful stimuli and transmit signals to the brain. [_“The Molecular Basis of Nociception” by Allan I. Basbaum and Clifford J. Woolf (2000)]_
+*   Neuroscience: The brain processes these signals, allowing individuals to feel pain. Pain serves as a protective mechanism, alerting the body to potential harm. [_“Principles of Neural Science” by Eric R. Kandel, James H. Schwartz, and Thomas M. Jessell (2000)]_
+
+## Internal Waves in the Oceans: Hidden Movements
+
+Qur’anic Verse:_“Or ˹their deeds are˺ like the darkness in a deep sea, covered by waves upon waves, topped by ˹dark˺ clouds. Darkness upon darkness! If one stretches out their hand, they can hardly see it. And whoever Allah does not bless with light will have no light!”_ (Quran 24:40)
+
+**Scientific Explanation:**
+
+*   Internal Waves: These are waves that occur within the ocean, below the surface. They are caused by differences in density and are influenced by factors such as temperature and salinity. [_“Internal Waves in the Ocean” by John R. Apel (1987)]_
+*   Detection: Internal waves are difficult to observe directly but can be detected using advanced instruments like sonar and satellite imagery. [_“Observation and Modeling of Internal Waves in the Ocean” by Roger Grimshaw (2005)]_
+
+## Frontal Lobe: The Seat of Deception
+
+Qur’anic Verse:_“But no! If he does not desist, We will certainly drag him by the forelock — a lying, sinful forelock.”_(Quran 96:15–16)
+
+**Scientific Explanation:**
+
+*   Prefrontal Cortex: The prefrontal cortex, located in the frontal lobe of the brain, is involved in higher-order cognitive functions such as decision-making, planning, and impulse control. [“_The Prefrontal Cortex and Executive Functioning” by Jordan Grafman (2000)]_
+*   Lying and Deception: Studies have shown that the prefrontal cortex is active during acts of deception, suggesting that it plays a key role in the cognitive processes involved in lying. [_“Neural Correlates of Deception: A Meta-Analysis” by Giorgio Ganis, Christiane Rosenfeld, and Stephen M. Kosslyn (2003)]_
+
+## An Invitation to Truth
+
+The Qur’an, revealed over 1,400 years ago, continues to astonish the human mind with its profound insights and scientific accuracy. From the development of the embryo to the structure of the cosmos, from the depths of the oceans to the intricate functions of the brain, it contains knowledge that was entirely inaccessible to the people of that time. These are not mere coincidences but clear signs, revealed by the Creator, to guide humanity.
+
+Think for a moment: How could such precise knowledge be present in a book from the 7th century unless it came from the One who created the universe and everything in it? The Qur’an challenges us:
+
+_“We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth.”_ (Qur’an 41:53)
+
+These miracles are not just meant to amaze us; they serve as a call to reflect on the ultimate purpose of our existence. Life is not a random occurrence but a deliberate creation, and we are not here without a purpose. The Qur’an provides answers to life’s biggest questions: Why are we here? Where are we going? And how can we attain eternal success?
+
+**Islam is the path to that success.** It is the only religion that aligns with reason, science, and the innate nature of humanity. It is the final and complete guidance sent by God, who lovingly invites us to recognize Him, submit to His will, and attain eternal peace in this life and the Hereafter.
+
+I invite you, dear reader, to explore Islam with an open heart. This is not merely about religious rituals or practices — it is about connecting to the truth, finding purpose, and experiencing the inner tranquility that comes with surrendering to your Creator.
+
+If the signs you’ve read today resonate with you, don’t let this moment pass. Seek further knowledge, read the Qur’an, and learn from authentic sources. The path to Islam is a journey of reflection, faith, and ultimately, salvation.
+
+The decision is yours, and the time is now. God promises:
+
+_“Whoever submits his face to Allah while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.”_ (Qur’an 2:112)
+
+Take that step. Embrace the truth. Accept Islam. It is the way to live a meaningful life and achieve eternal success in the presence of your Creator.
+
+So if you are ready to become a Muslim, watch the video below where Islamic scholars are helping a person to say the ‘_Shahadah’_ to become a Muslim. You can do the same. May Allah bless you.
+
+[https://www.youtube.com/watch?v=x1eH_NHYBes](https://www.youtube.com/watch?v=x1eH_NHYBes)
+
+May God guide you to the truth and grant you peace.
 
 ---
-
----
-
